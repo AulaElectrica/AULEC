@@ -1,0 +1,764 @@
+# 120 preguntas y respuestas
+
+## 1. Geografía del diapasón
+
+**Pregunta:** ¿Qué información hay sobre Geografía del diapasón?
+
+**Respuesta:** La geografía del diapasón se refiere al estudio de cómo las notas se distribuyen a lo largo de las cuerdas y los trastes de la guitarra. Incluye conceptos como intervalos, patrones y posiciones para encontrar notas y formar acordes.
+
+## 2. Afinación
+
+**Pregunta:** ¿Qué información hay sobre Afinación?
+
+**Respuesta:** La afinación estándar de la guitarra es EADGBE. Las cuerdas se afinan desde la sexta (más grave) a la primera (más aguda) en las notas Mi, La, Re, Sol, Si y Mi. Es la afinación más común y permite tocar una amplia variedad de escalas y acordes.
+
+## 3. Sentido de la verticalidad
+
+**Pregunta:** ¿Qué información hay sobre Sentido de la verticalidad?
+
+**Respuesta:** El sentido de verticalidad en la guitarra describe cómo las notas se alinean entre las cuerdas. Este concepto es clave para entender las relaciones de intervalos y cómo visualizarlas en patrones verticales en el diapasón.
+
+## 4. Acorde mayor
+
+**Pregunta:** ¿Qué información hay sobre Acorde mayor?
+
+**Respuesta:** Un acorde mayor se compone de tres notas: tónica, tercera mayor y quinta justa. En el diapasón:
+
+- La tónica suele estar en la 6ª, 5ª o 4ª cuerda.
+- La tercera mayor está una cuerda abajo y un traste atrás respecto a la tónica.
+- La quinta justa está una cuerda abajo y dos trastes adelante respecto a la tónica, o directamente encima en la cuerda superior.
+
+## 5. Acorde menor
+
+**Pregunta:** ¿Qué información hay sobre Acorde menor?
+
+**Respuesta:** Un acorde menor se compone de tres notas: tónica, tercera menor y quinta justa. En el diapasón:
+
+- La tónica suele estar en la 6ª, 5ª o 4ª cuerda.
+- La tercera menor está una cuerda abajo y dos trastes atrás respecto a la tónica.
+- La quinta justa está una cuerda abajo y dos trastes adelante respecto a la tónica, o directamente encima en la cuerda superior.
+
+## 6. Intervalo de 3ª mayor
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 3ª Mayor?
+
+**Respuesta:** El intervalo de 3ª mayor abarca 2 tonos. En el diapasón, se localiza una cuerda abajo y un traste atrás con respecto a la tónica.
+
+## 7. Intervalo de 3ª menor
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 3ª menor?
+
+**Respuesta:** El intervalo de 3ª menor abarca 1.5 tonos. En el diapasón, se localiza una cuerda abajo y dos trastes atrás con respecto a la tónica.
+
+## 8. Intervalo de 5ª justa
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 5ª justa?
+
+**Respuesta:** El intervalo de 5ª justa abarca 3.5 tonos. En el diapasón, se localiza una cuerda abajo y dos trastes adelante respecto a la tónica, o justo encima de la tónica en la cuerda superior.
+
+## 9. Intervalo de 5ª justa invertida
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 5ª justa invertida?
+
+**Respuesta:** El intervalo de 5ª justa invertida se encuentra justo encima de la tónica en la cuerda superior.
+
+## 10. Sistema CAGED
+
+**Pregunta:** ¿Qué información hay sobre Sistema CAGED?
+
+**Respuesta:** El sistema CAGED es una metodología para aprender las posiciones de acordes y escalas en la guitarra. Divide el diapasón en cinco patrones basados en los acordes abiertos de Do, La, Sol, Mi y Re, facilitando la memorización de escalas y arpegios.
+
+## 11. Inversiones
+
+**Pregunta:** ¿Qué información hay sobre Inversiones?
+
+**Respuesta:** Las inversiones de acordes reorganizan las notas de un acorde, colocando en el bajo notas distintas de la tónica. Por ejemplo, en un acorde de Do mayor, la primera inversión tiene Mi en el bajo y la segunda inversión tiene Sol en el bajo.
+
+## 12. Arpegios
+
+**Pregunta:** ¿Qué información hay sobre Arpegios?
+
+**Respuesta:** Un arpegio es la interpretación sucesiva de las notas de un acorde, en lugar de tocarlas simultáneamente. Por ejemplo, un arpegio mayor incluye tónica, tercera mayor y quinta justa, mientras que un arpegio menor reemplaza la tercera mayor por una tercera menor.
+
+## 13. Tempo
+
+**Pregunta:** ¿Qué información hay sobre Tempo?
+
+**Respuesta:** El tempo indica la velocidad a la que se interpreta una pieza musical y se mide en pulsos por minuto (BPM). Por ejemplo, un tempo de 120 BPM significa 120 pulsos por minuto.
+
+## 14. Compás
+
+**Pregunta:** ¿Qué información hay sobre Compás?
+
+**Respuesta:** El compás organiza el ritmo en grupos regulares de pulsos. Se representan con fracciones, como 4/4 (cuatro pulsos por compás) o 3/4 (tres pulsos por compás). El numerador indica la cantidad de pulsos y el denominador su valor.
+
+## 15. Tiempo de negra
+
+**Pregunta:** ¿Qué información hay sobre Tiempo de negra?
+
+**Respuesta:** El tiempo de negra es la unidad de duración de un pulso en la mayoría de los compases simples. En un compás 4/4, cada negra equivale a un cuarto de compás.
+
+## 16. Corcheas
+
+**Pregunta:** ¿Qué información hay sobre Corcheas?
+
+**Respuesta:** Las corcheas son figuras rítmicas que duran la mitad de una negra. En un compás 4/4, cada corchea tiene un valor de un octavo del compás, permitiendo subdividir el pulso en dos partes iguales.
+
+## 17. Contratiempo
+
+**Pregunta:** ¿Qué información hay sobre Contratiempo?
+
+**Respuesta:** El contratiempo se refiere a acentuar notas que no coinciden con los pulsos principales del compás, generalmente en las subdivisiones intermedias, como las partes débiles de cada pulso.
+
+## 18. Ligados
+
+**Pregunta:** ¿Qué información hay sobre Ligados?
+
+**Respuesta:** El ligado conecta secuencialmente dos notas diferentes, haciendo que se interpreten como un solo sonido continuo. Es una técnica usada para crear fluidez y evitar ataques de púa. Tenemos básicamente dos tipos: ligado ascendente (martillazo o hammer-on) y ligado descendente (pull-off).
+
+## 19. Ritmo rasgueado a corcheas
+
+**Pregunta:** ¿Qué información hay sobre Ritmo rasgueado a corcheas?
+
+**Respuesta:** El ritmo rasgueado a corcheas consiste en dividir cada pulso del compás en dos partes iguales, tocando un rasgueo hacia abajo y otro hacia arriba de manera constante.
+
+## 20. Ritmo rasgueado a semicorcheas
+
+**Pregunta:** ¿Qué información hay sobre Ritmo rasgueado a semicorcheas?
+
+**Respuesta:** El ritmo rasgueado a semicorcheas subdivide cada pulso del compás en cuatro partes iguales, alternando movimientos hacia abajo y hacia arriba para mantener un flujo rítmico continuo.
+
+## 21. Escala pentatónica mayor
+
+**Pregunta:** ¿Qué información hay sobre Escala pentatónica Mayor?
+
+**Respuesta:** La escala pentatónica mayor tiene cinco notas por octava y está formada por los grados 1, 2, 3, 5 y 6 de la escala mayor. Es ampliamente utilizada en géneros como el blues y el rock.
+
+## 22. Intervalo de 2ª mayor
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 2ª Mayor?
+
+**Respuesta:** El intervalo de 2ª mayor abarca 1 tono completo. En el diapasón, se localiza 2 trastes adelante en la misma cuerda respecto a la tónica.
+
+## 23. Intervalo de 6ª mayor
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 6ª Mayor?
+
+**Respuesta:** El intervalo de 6ª mayor abarca 4.5 tonos. En el diapasón, se localiza 1 tono adelante desde la 5ª justa.
+
+## 24. Escala pentatónica menor
+
+**Pregunta:** ¿Qué información hay sobre Escala pentatónica menor?
+
+**Respuesta:** La escala pentatónica menor tiene cinco notas por octava y está formada por los grados 1, b3, 4, 5 y b7 de la escala menor. Es ideal para improvisación en géneros como el blues y el rock.
+
+## 25. Intervalo de 4ª justa
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 4ª justa?
+
+**Respuesta:** El intervalo de 4ª justa abarca 2.5 tonos. En el diapasón, se localiza una cuerda abajo en la misma posición vertical respecto a la tónica.
+
+## 26. Intervalo de 7ª menor
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 7ª menor?
+
+**Respuesta:** El intervalo de 7ª menor abarca 5 tonos. En el diapasón, se localiza dos cuerdas abajo respecto a la tónica, o 1 tono atrás desde la tónica.
+
+## 27. Nota de blues y 5ª disminuida
+
+**Pregunta:** ¿Qué información hay sobre Nota de Blues. Intervalo de 5ª disminuida?
+
+**Respuesta:** La nota de blues es una 5ª disminuida (3 tonos) que agrega tensión y color característicos al fraseo. En el diapasón, se localiza una cuerda abajo y un traste adelante respecto a la tónica.
+
+## 28. Los 5 sectores
+
+**Pregunta:** ¿Qué información hay sobre Los 5 sectores?
+
+**Respuesta:** Los 5 sectores dividen el diapasón de la guitarra en áreas basadas en posiciones de escalas o acordes. Este enfoque facilita la visualización y memorización de patrones en diferentes registros del instrumento.
+
+## 29. Tonalidades relativas
+
+**Pregunta:** ¿Qué información hay sobre Tonalidades relativas?
+
+**Respuesta:** Las tonalidades relativas son parejas de tonalidades mayor y menor que comparten las mismas notas y armadura de clave. Por ejemplo, Do mayor y La menor son relativas porque tienen las mismas notas, pero diferentes tónicas.
+
+## 30. Figura rítmica: negras
+
+**Pregunta:** ¿Qué información hay sobre Figura rítmica Negras?
+
+**Respuesta:** Las negras son figuras rítmicas que representan un pulso completo en compases simples como 4/4. Cada negra equivale a un cuarto del compás.
+
+## 31. Figura rítmica: corcheas
+
+**Pregunta:** ¿Qué información hay sobre Figura rítmica Corcheas?
+
+**Respuesta:** Las corcheas son figuras rítmicas que duran la mitad de una negra. En un compás 4/4, cada corchea tiene un valor de un octavo del compás, permitiendo subdividir el pulso en dos partes iguales.
+
+## 32. Figura rítmica: semicorcheas
+
+**Pregunta:** ¿Qué información hay sobre Figura rítmica Semicorcheas?
+
+**Respuesta:** Las semicorcheas son figuras rítmicas que duran la cuarta parte de una negra. En un compás 4/4, cada semicorchea tiene un valor de un dieciseisavo del compás, subdividiendo cada pulso en cuatro partes iguales.
+
+## 33. Figura rítmica: tresillos
+
+**Pregunta:** ¿Qué información hay sobre Figura rítmica Tresillos?
+
+**Respuesta:** Los tresillos son subdivisiones rítmicas que dividen un pulso en tres partes iguales. Se utilizan para crear un efecto de polirritmia y son comunes en estilos como el jazz y el blues.
+
+## 34. Numerador y denominador del compás
+
+**Pregunta:** ¿Qué información hay sobre Numerador y denominador del compás?
+
+**Respuesta:** El numerador del compás indica el número de pulsos por compás, mientras que el denominador especifica el valor de cada pulso. Por ejemplo, en un compás 4/4, el numerador es 4 y el denominador representa la negra.
+
+## 35. Compás simple
+
+**Pregunta:** ¿Qué información hay sobre Compás simple?
+
+**Respuesta:** Un compás simple tiene pulsos que se dividen en dos partes iguales. Por ejemplo, 2/4, 3/4 y 4/4 son compases simples, donde cada pulso puede subdividirse en dos corcheas.
+
+## 36. Compás compuesto
+
+**Pregunta:** ¿Qué información hay sobre Compás compuesto?
+
+**Respuesta:** Un compás compuesto tiene pulsos que se dividen en tres partes iguales. Por ejemplo, 6/8, 9/8 y 12/8 son compases compuestos, donde cada pulso puede subdividirse en tres corcheas.
+
+## 37. Compás binario
+
+**Pregunta:** ¿Qué información hay sobre Compás binario?
+
+**Respuesta:** Un compás binario tiene dos pulsos principales por compás, como en 2/4 o 6/8. Es característico de estilos con un ritmo estable y balanceado.
+
+## 38. Compás ternario
+
+**Pregunta:** ¿Qué información hay sobre Compás ternario?
+
+**Respuesta:** Un compás ternario tiene tres pulsos principales por compás, como en 3/4 o 9/8. Es común en valses y otros estilos con una métrica fluida.
+
+## 39. Compases habituales
+
+**Pregunta:** ¿Qué información hay sobre Compases habituales: 4x4, 3x4 y 6x8?
+
+**Respuesta:** Los compases 4/4, 3/4 y 6/8 son los más comunes en la música occidental.
+
+- El 4/4 tiene cuatro pulsos de negras por compás.
+- El 3/4 tiene tres pulsos de negras por compás.
+- El 6/8 tiene seis pulsos de corcheas agrupados en dos unidades.
+
+## 40. Escala diatónica mayor
+
+**Pregunta:** ¿Qué información hay sobre Escala diatónica Mayor o mayor natural?
+
+**Respuesta:** La escala diatónica mayor tiene siete notas organizadas según el patrón T-T-S-T-T-T-S (tonos y semitonos). Es la base de la música tonal y contiene grados funcionales como tónica, subdominante y dominante.
+
+## 41. Intervalo de 7ª mayor
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 7ª mayor?
+
+**Respuesta:** El intervalo de 7ª mayor abarca 5.5 tonos. En el diapasón, se localiza dos cuerdas abajo y un traste adelante respecto a la tónica, o 1 semitono detrás de la tónica.
+
+## 42. Acorde de 7ª mayor
+
+**Pregunta:** ¿Qué información hay sobre Acorde de 7ª mayor?
+
+**Respuesta:** El acorde de 7ª mayor está compuesto por tónica, tercera mayor, quinta justa y séptima mayor. Es un acorde suave y usado frecuentemente en estilos como jazz y bossa nova.
+
+## 43. Acorde de 7ª menor
+
+**Pregunta:** ¿Qué información hay sobre Acorde de 7ª menor?
+
+**Respuesta:** El acorde de 7ª menor está compuesto por tónica, tercera menor, quinta justa y séptima menor. Es un acorde flexible y esencial en estilos como blues, jazz y rock.
+
+## 44. Armonización de una escala
+
+**Pregunta:** ¿Qué información hay sobre Armonización de una escala?
+
+**Respuesta:** Armonizar una escala consiste en construir acordes a partir de cada grado de la escala. En la escala mayor, la armonización típica produce una secuencia de acordes: mayor, menor, menor, mayor, mayor, menor, disminuido.
+
+## 45. Acorde m7b5
+
+**Pregunta:** ¿Qué información hay sobre Acorde m7b5?
+
+**Respuesta:** El acorde m7b5 está compuesto por tónica, tercera menor, quinta disminuida y séptima menor. Se utiliza frecuentemente en progresiones de jazz y en la armonización del séptimo grado de la escala mayor.
+
+## 46. Localización de grados en el diapasón
+
+**Pregunta:** ¿Qué información hay sobre Localización de grados en el diapasón?
+
+**Respuesta:** La localización de grados en el diapasón implica identificar las posiciones de los grados de una escala o acorde en diferentes cuerdas y trastes. Esto permite visualizar patrones y estructuras en cualquier tonalidad.
+
+## 47. Función tónica en tonalidad mayor
+
+**Pregunta:** ¿Qué información hay sobre Funciones armónicas en tonalidad Mayor: Función Tónica?
+
+**Respuesta:** La función tónica en tonalidad mayor representa el punto de reposo y estabilidad armónica. Está asociada con el primer grado (I) de la escala mayor y sus inversiones.
+
+## 48. Función subdominante en tonalidad mayor
+
+**Pregunta:** ¿Qué información hay sobre Funciones armónicas en tonalidad Mayor: Función Subdominante?
+
+**Respuesta:** La función subdominante en tonalidad mayor representa la transición y preparación hacia la dominante. Está asociada con los grados IV y ii de la escala mayor.
+
+## 49. Función dominante en tonalidad mayor
+
+**Pregunta:** ¿Qué información hay sobre Funciones armónicas en tonalidad Mayor: Función Dominante?
+
+**Respuesta:** La función dominante genera tensión que requiere resolución hacia la tónica. Está asociada con el quinto grado (V) y su séptima (V7) en la escala mayor.
+
+## 50. Acorde dominante
+
+**Pregunta:** ¿Qué información hay sobre Acorde Dominante?
+
+**Respuesta:** Un acorde dominante es un acorde mayor con séptima menor (V7). Genera tensión armónica que busca resolverse hacia la tónica. Ejemplo: Sol7 en la tonalidad de Do mayor.
+
+## 51. Tensión de dominante
+
+**Pregunta:** ¿Qué información hay sobre Tensión de Dominante?
+
+**Respuesta:** La tensión de dominante se crea por las notas de séptima menor y tercera mayor, que generan un impulso armónico hacia la resolución en el acorde de tónica.
+
+## 52. Cadencias
+
+**Pregunta:** ¿Qué información hay sobre Cadencias?
+
+**Respuesta:** Las cadencias son fórmulas armónicas que marcan el final de una frase musical. Tipos comunes incluyen la cadencia perfecta (V-I), la plagal (IV-I), y la rota (V-vi).
+
+## 53. Escala diatónica menor
+
+**Pregunta:** ¿Qué información hay sobre Escala diatónica menor?
+
+**Respuesta:** La escala diatónica menor, también conocida como menor natural, sigue el patrón T-S-T-T-S-T-T (tonos y semitonos). Contiene grados funcionales similares a la escala mayor pero con un carácter melancólico.
+
+## 54. Intervalo de 6ª menor
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 6ª menor?
+
+**Respuesta:** El intervalo de 6ª menor abarca 4 tonos. En el diapasón, se localiza un semitono atrás respecto a la 6ª mayor.
+
+## 55. Función tónica en tonalidad menor
+
+**Pregunta:** ¿Qué información hay sobre Funciones armónicas en tonalidad menor: Función Tónica?
+
+**Respuesta:** La función tónica en tonalidad menor representa el reposo y estabilidad armónica. Está asociada con el primer grado (i) de la escala menor y sus inversiones.
+
+## 56. Función subdominante en tonalidad menor
+
+**Pregunta:** ¿Qué información hay sobre Funciones armónicas en tonalidad menor: Función Subdominante?
+
+**Respuesta:** La función subdominante en tonalidad menor representa la transición y preparación hacia la dominante. Está asociada con los grados iv, ii°, bVI y bVII de la escala menor.
+
+## 57. Escala menor armónica
+
+**Pregunta:** ¿Qué información hay sobre Escala menor armónica?
+
+**Respuesta:** La escala menor armónica es una variante de la escala menor natural donde el séptimo grado se eleva un semitono, creando un intervalo de 1.5 tonos entre el sexto y el séptimo grado. Su patrón es T-S-T-T-S-TS-S.
+
+## 58. Acorde disminuido 'dim'
+
+**Pregunta:** ¿Qué información hay sobre Acorde disminuido?
+
+**Respuesta:** Un acorde disminuido 'dim' está compuesto por tónica, tercera menor, quinta disminuida y séptima disminuida. Es disonante y se utiliza frecuentemente como paso en progresiones armónicas.
+
+## 59. Escala menor melódica
+
+**Pregunta:** ¿Qué información hay sobre Escala menor melódica?
+
+**Respuesta:** La escala menor melódica es una variante de la escala menor natural donde el sexto y séptimo grados se elevan un semitono en la ascendente. Su patrón es T-S-T-T-T-T-S.
+
+## 60. Intercambio modal
+
+**Pregunta:** ¿Qué información hay sobre Intercambio modal?
+
+**Respuesta:** El intercambio modal implica tomar acordes prestados de modos paralelos para enriquecer la armonía. Por ejemplo, usar un acorde iv de la tonalidad menor en una progresión mayor.
+
+## 61. Progresiones de acordes
+
+**Pregunta:** ¿Qué información hay sobre Progresiones de acordes?
+
+**Respuesta:** Las progresiones de acordes son secuencias armónicas que estructuran una pieza musical. Incluyen combinaciones comunes como I-IV-V-I en tonalidad mayor y i-iv-V-i en tonalidad menor.
+
+## 62. Círculo de quintas
+
+**Pregunta:** ¿Qué información hay sobre Círculo de quintas?
+
+**Respuesta:** El círculo de quintas es una representación visual de las relaciones entre las tonalidades. Muestra las claves mayores y menores dispuestas en intervalos de quintas ascendentes o descendentes, útil para modulación y construcción armónica.
+
+## 63. Acordes suspendidos sus4 y sus2
+
+**Pregunta:** ¿Qué información hay sobre Acordes suspendidos sus4 y sus2?
+
+**Respuesta:** Los acordes suspendidos reemplazan la tercera del acorde con otra nota:
+
+- En los acordes sus4, la tercera es sustituida por la cuarta justa.
+- En los acordes sus2, la tercera es sustituida por la segunda mayor.
+
+Producen un sonido abierto y sin resolución.
+
+## 64. Acordes de 6ª
+
+**Pregunta:** ¿Qué información hay sobre Acordes de 6ª?
+
+**Respuesta:** Los acordes de 6ª añaden una sexta mayor al acorde tríada (mayor o menor). Por ejemplo, un Do6 incluye las notas Do, Mi, Sol y La. Se usan comúnmente en jazz y estilos modernos.
+
+## 65. Acordes de 9ª añadida o add9
+
+**Pregunta:** ¿Qué información hay sobre Acordes de 9ª añadida o add9?
+
+**Respuesta:** Los acordes de 9ª añadida o add9 se forman agregando una novena a una tríada. Por ejemplo, un Doadd9 incluye las notas Do, Mi, Sol y Re.
+
+## 66. Tensiones
+
+**Pregunta:** ¿Qué información hay sobre Tensiones?
+
+**Respuesta:** Las tensiones son intervalos adicionales que enriquecen los acordes básicos, como novenas, oncenas y trecenas. Se encuentran en la octava siguiente desde la tónica. Se usan para agregar color y complejidad armónica, especialmente en estilos como el jazz.
+
+## 67. Dominantes secundarios
+
+**Pregunta:** ¿Qué información hay sobre Dominantes secundarios?
+
+**Respuesta:** Los dominantes secundarios son acordes de dominante que resuelven hacia grados diferentes de la tónica principal. Por ejemplo, en Do mayor, un dominante secundario sería D7 resolviendo hacia G (V de V).
+
+## 68. Tensiones de 9ª y 13ª
+
+**Pregunta:** ¿Qué información hay sobre Tensiones de 9ª y de 13ª?
+
+**Respuesta:** Las tensiones de 9ª (Re) y 13ª (La) son notas adicionales que se añaden a los acordes de séptima. Por ejemplo, un G13 incluiría las notas Sol, Si, Re, Fa y La, aportando un color armónico distintivo.
+
+## 69. Alteraciones de 5ª
+
+**Pregunta:** ¿Qué información hay sobre Alteraciones de 5ª?
+
+**Respuesta:** Las alteraciones de 5ª (aumentada o disminuida) modifican la quinta justa de un acorde. Por ejemplo, un G7#5 incluiría Sol, Si, Re sostenido y Fa, generando un sonido más tenso.
+
+## 70. Modos griegos
+
+**Pregunta:** ¿Qué información hay sobre Modos Griegos?
+
+**Respuesta:** Los modos griegos son escalas derivadas de la escala mayor tomando como primer grado cada uno de los grados de la escala. Cada modo tiene un carácter único, como el Dórico (segundo grado) o el Lidio (cuarto grado), y se utilizan para enriquecer la improvisación y la composición.
+
+## 71. Modos mayores y menores
+
+**Pregunta:** ¿Qué información hay sobre Modos mayores y modos menores?
+
+**Respuesta:** Los modos mayores tienen un carácter brillante (Jónico, Lidio, Mixolidio), mientras que los modos menores tienen un carácter melancólico (Dórico, Frigio, Eólico, Locrio). Derivan de los grados de la escala mayor.
+
+## 72. Modo Jónico
+
+**Pregunta:** ¿Qué información hay sobre Modo Jónico?
+
+**Respuesta:** El modo Jónico es equivalente a la escala mayor. Su patrón de tonos y semitonos es T-T-S-T-T-T-S, y tiene un carácter estable y brillante.
+
+## 73. Modo Dórico
+
+**Pregunta:** ¿Qué información hay sobre Modo Dórico?
+
+**Respuesta:** El modo Dórico es una escala menor con una sexta mayor. Su patrón de tonos y semitonos es T-S-T-T-T-S-T, y se utiliza en géneros como jazz, funk y música modal.
+
+## 74. Modo Frigio
+
+**Pregunta:** ¿Qué información hay sobre Modo Frigio?
+
+**Respuesta:** El modo Frigio es una escala menor con una segunda menor. Su patrón de tonos y semitonos es S-T-T-T-S-T-T, y tiene un carácter oscuro y exótico, común en flamenco y música modal.
+
+## 75. Intervalo de 2ª menor
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 2ª menor?
+
+**Respuesta:** El intervalo de 2ª menor abarca 1 semitono. En el diapasón, se localiza un traste adelante en la misma cuerda respecto a la tónica.
+
+## 76. Modo Lidio
+
+**Pregunta:** ¿Qué información hay sobre Modo Lidio?
+
+**Respuesta:** El modo Lidio es una escala mayor con una cuarta aumentada. Su patrón de tonos y semitonos es T-T-T-S-T-T-S, y tiene un carácter brillante y etéreo, común en música modal y progresiva.
+
+## 77. Intervalo de 4ª aumentada
+
+**Pregunta:** ¿Qué información hay sobre Intervalo de 4ª aumentada?
+
+**Respuesta:** El intervalo de 4ª aumentada abarca 3 tonos. En el diapasón, se localiza una cuerda abajo y 1 traste adelante respecto a la tónica.
+
+## 78. Modo Mixolidio
+
+**Pregunta:** ¿Qué información hay sobre Modo Mixolidio?
+
+**Respuesta:** El modo Mixolidio es una escala mayor con una séptima menor. Su patrón de tonos y semitonos es T-T-S-T-T-S-T, y tiene un carácter estable y ligeramente tenso, usado en blues y rock.
+
+## 79. Modo Eólico
+
+**Pregunta:** ¿Qué información hay sobre Modo Eólico?
+
+**Respuesta:** El modo Eólico es equivalente a la escala menor natural. Su patrón de tonos y semitonos es T-S-T-T-S-T-T, y tiene un carácter melancólico, común en música clásica y moderna.
+
+## 80. Modo Locrio
+
+**Pregunta:** ¿Qué información hay sobre Modo Locrio?
+
+**Respuesta:** El modo Locrio es una escala menor con una segunda menor y una quinta disminuida. Su patrón de tonos y semitonos es S-T-T-S-T-T-T, y tiene un carácter disonante y tenso, usado en música experimental.
+
+## 81. Pentatónicas modales
+
+**Pregunta:** ¿Qué información hay sobre Pentatónicas “modales”?
+
+**Respuesta:** Las pentatónicas modales son escalas pentatónicas derivadas de los modos griegos, como la pentatónica dórica o la pentatónica frigia. Se usan para improvisar dentro del contexto modal.
+
+## 82. Modos relativos
+
+**Pregunta:** ¿Qué información hay sobre Modos relativos?
+
+**Respuesta:** Los modos relativos comparten las mismas notas pero tienen diferentes tónicas. Por ejemplo, el modo Lidio de Do y el modo Dórico de La tienen las mismas notas, pero diferentes puntos de reposo.
+
+## 83. Blanca
+
+**Pregunta:** ¿Qué información hay sobre Blanca?
+
+**Respuesta:** La blanca es una figura rítmica que dura dos pulsos en compases simples como 4/4. Representa la mitad de la duración de un compás completo en este tipo de métrica.
+
+## 84. Negra con puntillo
+
+**Pregunta:** ¿Qué información hay sobre Negra puntillo?
+
+**Respuesta:** La negra con puntillo tiene una duración de un pulso y medio (3 corcheas) en compases simples. El puntillo añade la mitad del valor original de la negra.
+
+## 85. Corchea con puntillo
+
+**Pregunta:** ¿Qué información hay sobre Corchea puntillo?
+
+**Respuesta:** La corchea con puntillo tiene una duración de tres cuartos de pulso (3 semicorcheas). Es común en subdivisiones rítmicas complejas y estilos como el swing.
+
+## 86. Swing feel
+
+**Pregunta:** ¿Qué información hay sobre Swing feel?
+
+**Respuesta:** El swing feel es una interpretación rítmica en la que las corcheas se tocan con un patrón desigual: la 1ª corchea equivale a 2 tresillos y la 2ª corchea equivale a 1 tresillo. Esto crea un efecto de balanceo característico en géneros como jazz y blues.
+
+## 87. Semicorcheas de swing
+
+**Pregunta:** ¿Qué información hay sobre Semicorcheas de swing?
+
+**Respuesta:** Las semicorcheas de swing se interpretan con un patrón rítmico desigual, similar al swing de las corcheas, pero aplicando esta sensación a subdivisiones más rápidas.
+
+## 88. Tresillo de semicorcheas
+
+**Pregunta:** ¿Qué información hay sobre Tresillo de semicorcheas?
+
+**Respuesta:** El tresillo de semicorcheas divide una negra en tres partes iguales, creando una subdivisión rítmica rápida y uniforme. Es común en música clásica y jazz.
+
+## 89. Tresillo de negra
+
+**Pregunta:** ¿Qué información hay sobre Tresillo de negra?
+
+**Respuesta:** El tresillo de negra divide una blanca en tres partes iguales, creando un efecto rítmico distintivo. Es utilizado para agregar dinamismo en progresiones rítmicas.
+
+## 90. Compás irregular
+
+**Pregunta:** ¿Qué información hay sobre Compás irregular?
+
+**Respuesta:** Un compás irregular tiene una cantidad inusual de pulsos, como 5/4 o 7/8. Es común en música progresiva y experimental para romper estructuras rítmicas convencionales.
+
+## 91. Compás de amalgama
+
+**Pregunta:** ¿Qué información hay sobre Compás de amalgama?
+
+**Respuesta:** Un compás de amalgama combina diferentes compases simples o compuestos en una sola medida. Es utilizado en música progresiva para crear estructuras rítmicas complejas.
+
+## 92. Subdivisiones rítmicas
+
+**Pregunta:** ¿Qué información hay sobre Subdivisiones rítmicas?
+
+**Respuesta:** Las subdivisiones rítmicas dividen un pulso en partes más pequeñas, como corcheas, semicorcheas o tresillos. Permiten mayor precisión y variedad en la interpretación musical.
+
+También puede concebirse como la agrupación melódica o rítmica de un número de notas o pulsos que no divide naturalmente al número de pulsos de un compás o a la subdivisión natural del mismo.
+
+## 93. Escala por tonos
+
+**Pregunta:** ¿Qué información hay sobre Escala por tonos?
+
+**Respuesta:** La escala por tonos está compuesta únicamente por tonos completos, formando un patrón uniforme sin semitonos. Tiene un sonido ambiguo y es común en música impresionista y jazz.
+
+## 94. Acordes 7b5 y 7#5
+
+**Pregunta:** ¿Qué información hay sobre Acorde 7b5 y 7#5?
+
+**Respuesta:** El acorde 7b5 incluye tónica, tercera mayor, quinta disminuida y séptima menor. El acorde 7#5 incluye tónica, tercera mayor, quinta aumentada y séptima menor. Ambos generan tensión armónica y se generan naturalmente al armonizar la escala por tonos.
+
+## 95. Escala disminuida T-ST
+
+**Pregunta:** ¿Qué información hay sobre Escala disminuida T-ST?
+
+**Respuesta:** La escala disminuida T-ST alterna tonos y semitonos en su construcción. Es utilizada en contextos armónicos tensos y para improvisar sobre acordes de séptima disminuida.
+
+## 96. Escala disminuida ST-T
+
+**Pregunta:** ¿Qué es la escala disminuida ST-T?
+
+**Respuesta:** La escala ST-T (Semitono-Tono) es una herramienta útil con más aplicaciones prácticas que su contraparte T-ST (Tono-Semitono). Está relacionada con acordes dominantes, siendo especialmente interesante por su uso en contextos “legales” e “ilegales” (como los dominantes con b9). Adicionalmente, tiene similitudes con la escala menor armónica y puede considerarse como una menor armónica alterada con #11, #5 y 13.
+
+## 97. Escala mayor armónica
+
+**Pregunta:** ¿Qué información hay sobre Escala mayor armónica?
+
+**Respuesta:** La escala mayor armónica es una variante de la escala mayor donde el sexto grado se reduce un semitono, creando un intervalo de 1.5 tonos entre el sexto y el séptimo grado. Su patrón es T-T-S-T-S-TS-S.
+
+## 98. Escala doble armónica
+
+**Pregunta:** ¿Qué información hay sobre Escala doble armónica?
+
+**Respuesta:** La escala doble armónica es una variante de la escala mayor con el segundo y sexto grados reducidos un semitono. Tiene un carácter exótico y es común en música del Medio Oriente. Su patrón es S-TS-S-T-S-TS-S.
+
+## 99. Dórico b2
+
+**Pregunta:** ¿Qué información hay sobre Dórico b2?
+
+**Respuesta:** El Dórico b2 es el segundo modo de la escala menor melódica. Combina un carácter menor con una segunda menor y una sexta mayor. Se utiliza para progresiones armónicas que buscan tensión y resolución.
+
+## 100. Lidio b7
+
+**Pregunta:** ¿Qué información hay sobre Lidio b7?
+
+**Respuesta:** El Lidio b7 es el cuarto modo de la escala menor melódica. Es una escala mayor con una cuarta aumentada y una séptima menor. Se emplea en contextos modales y en progresiones armónicas modernas.
+
+## 101. Lidio #5
+
+**Pregunta:** ¿Qué información hay sobre Lidio #5?
+
+**Respuesta:** El Lidio #5 es el tercer modo de la escala menor melódica. Tiene un carácter mayor con una cuarta aumentada y una quinta aumentada. Su sonoridad es brillante y se utiliza en improvisación avanzada.
+
+## 102. Mixolidia b13
+
+**Pregunta:** ¿Qué información hay sobre Mixolidia b13?
+
+**Respuesta:** La Mixolidia b13 es el quinto modo de la escala menor melódica. Tiene un carácter dominante con una sexta menor y se utiliza en contextos armónicos que buscan resolver hacia la tónica de manera rica en color y tensión.
+
+## 103. Locria #2
+
+**Pregunta:** ¿Qué información hay sobre Locria #2?
+
+**Respuesta:** La Locria #2 es el sexto modo de la escala menor melódica. Es una escala menor con una segunda mayor y una quinta disminuida. Se emplea para explorar sonoridades disonantes y tensas en armonizaciones complejas.
+
+## 104. Superlocria
+
+**Pregunta:** ¿Qué información hay sobre Superlocria?
+
+**Respuesta:** La Superlocria es el séptimo modo de la escala menor melódica. Incluye todas las alteraciones posibles, como segunda menor, tercera menor y cuarta aumentada. Es utilizada en improvisación sobre acordes alterados dominantes.
+
+## 105. Desplazamiento entre la 2ª y la 3ª cuerda
+
+**Pregunta:** ¿Qué información hay sobre Desplazamiento entre la 2ª y la 3ª cuerda. Sentido de la verticalidad?
+
+**Respuesta:** El desplazamiento entre la 2ª y la 3ª cuerda en la guitarra ocurre porque el intervalo entre estas cuerdas es una tercera mayor en lugar de una cuarta justa. Esto afecta los patrones verticales y requiere ajustes al cambiar entre estas cuerdas.
+
+## 106. Escala diatónica diagonal y horizontal
+
+**Pregunta:** ¿Qué información hay sobre Escala diatónica Diagonal y horizontal?
+
+**Respuesta:** La escala diatónica puede interpretarse de forma diagonal o horizontal en el diapasón. En la interpretación diagonal, se combinan cambios de cuerda y posiciones para cubrir más notas. En la interpretación horizontal, las notas se agrupan visualmente en dos cuerdas adyacentes para visualizar la escala como una estructura visual cíclica.
+
+## 107. Staccato
+
+**Pregunta:** ¿Qué información hay sobre Staccato?
+
+**Respuesta:** El staccato es una técnica de interpretación que acorta la duración de las notas, separándolas con silencio. Se logra deteniendo el sonido inmediatamente después de tocar la nota.
+
+## 108. Distorsión u overdrive
+
+**Pregunta:** ¿Qué información hay sobre Distorsión u Overdrive?
+
+**Respuesta:** La distorsión y el overdrive son efectos de guitarra eléctrica que modifican la señal, añadiendo armónicos y compresión. La distorsión es más agresiva, mientras que el overdrive simula un amplificador saturado.
+
+## 109. Palm muting
+
+**Pregunta:** ¿Qué información hay sobre Palm Muting?
+
+**Respuesta:** El palm muting es una técnica que consiste en apoyar ligeramente la palma de la mano sobre las cuerdas cerca del puente, produciendo un sonido más controlado y percusivo. Es común en estilos como rock y metal.
+
+## 110. Riffs
+
+**Pregunta:** ¿Qué información hay sobre Riffs?
+
+**Respuesta:** Los riffs son patrones melódicos o rítmicos repetitivos que forman la base de muchas canciones, especialmente en géneros como rock, blues y metal. Son reconocibles y pegajosos.
+
+## 111. Bendings
+
+**Pregunta:** ¿Qué información hay sobre Bendings?
+
+**Respuesta:** El bending es una técnica en la que se dobla la cuerda hacia arriba para elevar la altura de la nota. Se realiza principalmente con el dedo anular y se usa para aumentar la expresividad en la guitarra. El bending debe afinarse correctamente, subiendo la nota un tono o más. Para un bending preciso, se utiliza el pulgar sobre el mástil para proporcionar control.
+
+## 112. Shuffle
+
+**Pregunta:** ¿Qué información hay sobre Shuffle?
+
+**Respuesta:** El shuffle es un patrón rítmico que acentúa los tiempos 2 y 4, creando una sensación de ritmo “bailarina”. En el aspecto armónico, se utilizan intervalos de 6ª mayor y 7ª menor. Estos intervalos generan tensiones armónicas que enriquecen la progresión de acordes, comúnmente en blues y rock & roll.
+
+## 113. Double stops
+
+**Pregunta:** ¿Qué información hay sobre Double Stops?
+
+**Respuesta:** Los double stops son cuando se tocan dos notas al mismo tiempo en cuerdas diferentes. Se usan para agregar riqueza sonora y son comunes en blues y rock. Se ejecutan en intervalos como terceras o sextas.
+
+## 114. Progresión de blues de 12 compases
+
+**Pregunta:** ¿Qué información hay sobre progresión de Blues de 12 compases?
+
+**Respuesta:** La progresión de blues de 12 compases es una estructura armónica fundamental, especialmente en el blues y el rock & roll. Esta progresión sigue un patrón que incluye los acordes I7, IV7 y V7, y se utiliza de manera estándar en varias tonalidades. Es la base para muchas improvisaciones, utilizando la escala pentatónica como principal herramienta melódica.
+
+## 115. Progresión de blues de 8 compases
+
+**Pregunta:** ¿Qué información hay sobre progresión de Blues de 8 compases?
+
+**Respuesta:** El blues de 8 compases es una variante menos común que la estructura tradicional de 12 compases, pero igualmente significativa en la evolución del género. Esta progresión mantiene los acordes I, IV y V, distribuidos de manera diferente a lo largo de 8 compases en lugar de 12.
+
+## 116. Blues menor
+
+**Pregunta:** ¿Qué información hay sobre Blues menor?
+
+**Respuesta:** La progresión de blues menor sigue una estructura tonal de 12 compases, utilizando los acordes Im - IVm - V7 como base. En lugar de IVm, a veces se emplea IV7 para añadir una sensación más dominante. Además, en el 9º compás, se puede utilizar tanto el acorde bVI7 como el acorde bVI normal, lo que crea una resolución hacia V7.
+
+## 117. Progresiones II-V-I
+
+**Pregunta:** ¿Qué información hay sobre progresiones IIm7/V7/Imaj7 o IIm7b5/V7/Im7?
+
+**Respuesta:** La progresión II - V - I es una de las más importantes en la música occidental, especialmente en el jazz y otros géneros que utilizan armonías más complejas. En tonalidades mayores, el acorde II suele ser un m7, el V es un V7 y la resolución final se produce en el acorde I. En tonalidades menores, la progresión toma la forma II m7b5 - V7 - I m7.
+
+## 118. Dominante sustituto b5
+
+**Pregunta:** ¿Qué información hay sobre Dominante sustituto b5?
+
+**Respuesta:** El dominante sustituto b5 es un acorde dominante que se encuentra a una distancia de una quinta disminuida (b5) del acorde dominante original. Este sustituto comparte las notas clave del acorde original, como la 7ª menor y la 3ª mayor, pero con sus identidades intercambiadas. Aunque las notas sean las mismas, la tensión creada es la misma, y el acorde se resuelve de manera similar.
+
+## 119. Acorde semidisminuido m7b5 y sustituciones
+
+**Pregunta:** ¿Qué información hay sobre Acorde semidisminuido m7b5 y Sustituciones?
+
+**Respuesta:** El acorde semidisminuido m7b5 tiene varias aplicaciones y puede sustituir otros acordes en progresiones armónicas. Puede sustituir un acorde V7 en tonalidades mayores, o sustituir acordes menores como IVm o IIm7 en tonalidades menores y mayores. También puede sustituir un V7 en tonalidad menor.
+
+## 120. Finger picking
+
+**Pregunta:** ¿Qué información hay sobre finger picking?
+
+**Respuesta:** El finger picking es la técnica para pulsar las cuerdas de la guitarra eléctrica con los dedos en vez de con la púa. Se puede usar tanto para rasguear acordes y patrones rítmicos como para arpegiar y como para solear melodías incluso.
+
+## 121. Acorde de 5ª o Power Chord
+
+**Pregunta:** ¿Qué información hay sobre el acorde de 5ª o power chord?
+
+**Respuesta:** El acorde de 5ª o power chord es un acorde formado por tónica y 5ª justa, en cualquiera de sus disposiciones por el diapasón. También muy usado con la 5ª invertida. Asociado mayoritariamente al rock y al pop.
+
+## 122. Modo Frigio Dominante
+
+**Pregunta:** ¿Qué información hay sobre el modo Frigio Dominante?
+
+**Respuesta:** El modo Frigio Dominante es el resultando de concebir el grado V7 de la escala menor armónica como tónica de la tonalidad o de la escala. Su sonido es arabesco y recuerda al flamenco. Aunque es usado en estilos modernos también
+
+## 123. Legato
+
+**Pregunta:** ¿Qué información hay sobre Legato?
+
+**Respuesta:** El legato, en guitarra electrica, se puede considerar como la técnica de encadenar largas secuencias de notas con ligados tanto con pull off como con hammer on sin pulsar apenas con la púa. En terminos sencillos, es una concatenacion de varios ligados.
+
+## 124. Patrones rítmicos
+
+**Pregunta:** ¿Qué información hay sobre patrones rítmicos?
+
+**Respuesta:** secuencias rítmicas basadas en figuras (negras, corcheas, semicorcheas, tresillos), subdivisiones y contratiempos, organizadas en compases (4/4, 3/4, 6/8, swing feel), que se rasguean en la guitarra eléctrica para crear acompañamientos y frases rítmicas.

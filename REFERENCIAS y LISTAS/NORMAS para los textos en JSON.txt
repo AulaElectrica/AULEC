@@ -1,0 +1,108 @@
+MEDIDAS DE ESTILO EN PROCESAMIENTO TEXTO DEL SCRIPT
+
+Estructura: ARRAY de OBJETOS.
+
+Cada objeto contiene los campos definidos por el exportador, entre ellos:
+
+{
+    "correo_id": NUMERO_ENTERO,
+    "fecha": STRING (formato "YYYY-MM-DD HH:MM"),
+    "cuerpo_txt_formateado": STRING,
+    "email": STRING,
+    "nombre": STRING,
+    "etiquetas": STRING,
+    "enlaces": STRING,
+    "archivos_adjuntos": ARRAY de STRING
+}
+
+REFERENCIA PARA IA: estilo y salida final. El texto debe conservar el contenido del correo, los saltos estructurales, la jerarquía de listas, las tablas y las referencias a imágenes.
+
+1. LIMPIEZA PREVIA HTML
+   - Eliminar comentarios condicionales y declaraciones XML de Outlook.
+   - Procesar el documento con BeautifulSoup usando html.parser.
+   - Eliminar style, script, head, meta, link y title.
+   - Eliminar etiquetas Outlook VML/XML que comiencen por v:, o:, w: o m:.
+   - Convertir referencias VML de imágenes a etiquetas img cuando sea posible.
+   - Convertir elementos o:p vacíos en br; desenvolver los o:p con contenido.
+
+2. GESTIÓN DE TABLAS
+   - Procesar las tablas antes de la limpieza general del texto.
+   - Extraer filas tr y celdas td/th.
+   - Sustituir celdas vacías por [CELDA_VACIA].
+   - Unir celdas con " | " y filas con saltos de línea.
+   - Envolver el resultado entre [TABLA] y [/TABLA].
+   - Sustituir temporalmente cada tabla por un marcador único.
+   - Restaurar los marcadores al finalizar el procesamiento, conservando el contenido de las tablas.
+
+3. GESTIÓN DE LISTAS Y JERARQUÍA
+   - Procesar ul, ol y li mediante procesar_nodo() de forma recursiva.
+   - Recorrer todos los hijos directos de ul/ol en el orden original.
+   - Procesar tanto li como ul/ol hermanos, porque Outlook puede colocar una lista anidada fuera del li anterior.
+   - No descartar los ul/ol hermanos: aunque su nivel exacto no siempre pueda determinarse por el HTML, debe conservarse todo su texto.
+   - Mantener internamente numeros_lista para calcular los niveles de anidamiento.
+   - No mostrar la numeración calculada en el texto final.
+   - El prefijo visible de cada elemento será un guion: "- ".
+   - La sangría visible se generará internamente con "\t" * (nivel - 1).
+   - Resultado esperado: nivel 1 "- Texto"; nivel 2 "\t- Texto"; nivel 3 "\t\t- Texto".
+   - Eliminar viñetas o numeraciones que ya existan en el texto del elemento antes de añadir el prefijo propio.
+   - No usar la sangría visual original del HTML como fuente de jerarquía: puede proceder del CSS o de HTML irregular de Outlook.
+
+4. LIMPIEZA DE FRAGMENTOS DE TEXTO HTML
+   - Aplicar limpiar_texto_html() únicamente a los fragmentos de texto procedentes del HTML.
+   - Convertir retornos de carro en vacío.
+   - Convertir espacios no separables a espacios normales.
+   - Usar re.sub(r"\s+", " ", texto) para eliminar saltos y espacios introducidos por el editor dentro de una frase o etiqueta.
+   - Aplicar strip() al fragmento.
+   - Esta limpieza no debe aplicarse al texto final completo, porque eliminaría los tabuladores jerárquicos generados por el programa.
+
+5. SALTOS DE LÍNEA ESTRUCTURALES
+   - <br> genera un salto de línea "\n".
+   - <p> y <div> generan separación de bloque, normalmente "\n\n" cuando contienen texto.
+   - Cada li termina con "\n" para separar los elementos de lista.
+   - ul y ol no generan por sí mismos saltos: concatenan el resultado de sus hijos.
+   - Los saltos internos del texto HTML que no procedan de una etiqueta se normalizan dentro de limpiar_texto_html().
+   - No eliminar los saltos estructurales de br, p, div ni li durante la normalización final.
+
+6. POSTPROCESADO
+   - Ejecutar texto_plano = procesar_nodo(soup).
+   - Restaurar las tablas sustituyendo sus marcadores.
+   - Reducir únicamente saltos excesivos si es necesario.
+   - No usar expresiones como re.sub(r"\n[ \t]+", "\n", texto), porque eliminan los tabuladores jerárquicos.
+   - Se puede eliminar espacio normal sobrante antes de un salto con re.sub(r" +\n", "\n", texto), sin afectar a los tabuladores.
+   - Aplicar strip() solo a los extremos del texto final.
+
+7. REFERENCIAS ESPECIALES
+   - Las imágenes con referencias internas se convierten en [IMAGEN: archivo_id=..., nombre_archivo=...].
+   - Los enlaces conservan el texto y/o la URL según la lógica del script.
+   - Las referencias CID y los adjuntos se procesan antes de convertir el HTML a texto.
+
+8. ESTILO FINAL DEL TEXTO JSON
+   - Texto plano legible.
+   - Listas con guiones y tabuladores generados por el programa.
+   - Tablas entre [TABLA] y [/TABLA].
+   - Imágenes mediante [IMAGEN: ...].
+   - Conservación de grados romanos, pipes de tablas, tildes y caracteres Unicode.
+   - Exportación JSON con indent=4 y ensure_ascii=False.
+
+Ejemplo:
+
+- CONDICIONES:
+\t- FUNCION TÓNICA
+\t\t- Un acorde tendrá función tónica.
+- Otra lista independiente:
+\t- Primer elemento.
+
+[TABLA]
+Header 1 | Header 2 | [CELDA_VACIA]
+Dato A   | Dato B   | Dato C
+[/TABLA]
+
+[IMAGEN: archivo_id=123, nombre_archivo=foto.png]
+
+PRUEBAS RECOMENDADAS
+- Comprobar que no desaparece texto de listas Outlook con ul/ol hermanos.
+- Comprobar listas anidadas de dos y tres niveles.
+- Comprobar dos listas independientes dentro del mismo correo.
+- Comprobar saltos internos del editor, como "FUNCION TÓNICA\n</b>".
+- Comprobar que los tabuladores se conservan después de la normalización y en el JSON exportado.
+- Comprobar tablas, imágenes, enlaces y párrafos normales.

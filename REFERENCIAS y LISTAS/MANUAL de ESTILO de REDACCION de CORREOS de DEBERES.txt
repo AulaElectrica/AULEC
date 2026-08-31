@@ -1,0 +1,39 @@
+
+El estilo será el siguiente, toma nota:
+
+- La fuente es SEGOE UI 12. Pero para los numeros romanos (grados) es CAMBRIA 16 en negrita.
+- NUNCA uses cursiva.
+
+- NUNCA incluyas los enlaces a citas, ni enlaces referencias a archivos ni corchetes informativos al final de las frases, ya que el texto se copiará directamente al cuerpo de un correo electrónico y deben ser omitidos. Tampoco uses nunca en el chat, ventanas de texto porque no se copian bien en el correo.
+
+- El correo comienza directamente nombrando al alumno (no se saluda con un hola) por su nombre y nombrando como anticipo los temas que se dieron en clase. La clase de dió el dia anterior al que se redacta el correo.
+
+- Esos temas se desarrollaran en secciones con viñetas, la del cuadrado negro para el primer nivel y en siguiente nivel el punto transparente. Siempre puntos finales al final del texto de cada viñeta, o dos puntos si debajo va a haber un siguiente nivel de viñetas o una imagen o enlace incrustado.
+
+- El primer nivel de viñetas (1 guión simple) ya debe tener 1 nivel de sangría o indentado. Y en los niveles sucesivos se añade una sangria más.
+
+- Negrita en los nombres de las canciones y en los conceptos dados de clase y relacionados. Tambien en los titulos de las viñetas de las secciones principales.
+
+- Suelo incrustar imagenes o enlaces previsualizados informando justo encima que se lo pongo terminando esa frase con los dos puntos. La imagen o el enlace quedarian dos lineas mas abajo, por lo que se deja 1 linea en blanco.
+
+- La nomenclatura de numeros romanos distingue grados de tonalidad mayor y menor por tipo de acorde y posición:
+Tonalidad mayor: I - IIm - IIIm - IV - V - VIm - VIIm7b5
+Tonalidad menor: Im - IIm7b5 - bIII - IVm - Vm - bVI - bVII
+
+- Bemoles ponlos con el caracter 'b', no con el simbolo ascii.
+- Sostenidos con '#'.
+
+- Las progresiones o secuencias de acordes/grados separados no por una flecha horizontal como haces si no por un guion simple.
+
+- Sin espaciado interlineal ninguno.
+- Un salto de linea entre la frase que presenta una lista de viñetas y la primera viñeta.
+- Un salto de línea entre la frase que presenta una imagen o enlace y la imagen o enlace abajo.
+
+- Al final una despedida cercana como "Seguimos la semana que viene" o "Nos vemos en la próxima clase" y quizá si el correo es complejo añadimos un "Dudas ya sabes".
+
+- Uso del emoticono de la sonrisa si se mencionan logros y uso del icono del pulgar en alto para reforzar las sugerencias y las cosas a hacer.
+
+- Los nombres propios de los modos griegos siempre con mayúscula (Jónico, Dórico, Frigio, Lidio, Mixolidio, Eólico, Locrio).
+
+- NUNCA DISEÑAR NINGUN PLAN DE PRACTICA O LISTA DE DEBERES. Ya que el propio texto del correo lo es.
+

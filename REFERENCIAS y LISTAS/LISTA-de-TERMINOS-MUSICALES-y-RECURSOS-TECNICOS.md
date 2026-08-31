@@ -1,0 +1,127 @@
+# Lista de términos musicales y recursos técnicos
+
+- Geografía del diapasón.
+- Afinación.
+- Sentido de la verticalidad.
+- Acorde mayor.
+- Acorde menor.
+- Intervalo de 3ª mayor.
+- Intervalo de 5ª justa.
+- Intervalo de 5ª justa invertida.
+- Sistema CAGED.
+- Inversiones.
+- Arpegios.
+- Tempo.
+- Compás.
+- Tiempo de negra.
+- Corcheas.
+- Contratiempo.
+- Ligadura.
+- Ritmo rasgueado a corcheas.
+- Ritmo rasgueado a semicorcheas.
+- Escala pentatónica mayor.
+- Intervalo de 2ª mayor.
+- Intervalo de 6ª mayor.
+- Escala pentatónica menor.
+- Intervalo de 4ª justa.
+- Intervalo de 7ª menor.
+- Nota de blues.
+- Intervalo de 5ª disminuida.
+- Los cinco sectores.
+- Tonalidades relativas.
+- Figura rítmica: negras.
+- Figura rítmica: corcheas.
+- Figura rítmica: semicorcheas.
+- Figura rítmica: tresillos.
+- Numerador y denominador del compás.
+- Compás simple.
+- Compás compuesto.
+- Compás binario.
+- Compás ternario.
+- Compases habituales: 4/4, 3/4 y 6/8.
+- Escala diatónica mayor o mayor natural.
+- Intervalo de 7ª mayor.
+- Acorde de 7ª mayor.
+- Acorde de 7ª menor.
+- Armonización de una escala.
+- Acorde m7b5.
+- Localización de grados en el diapasón.
+- Funciones armónicas en tonalidad mayor.
+- Función tónica.
+- Función subdominante.
+- Función dominante.
+- Acorde dominante.
+- Tensión de dominante.
+- Cadencias.
+- Escala diatónica menor.
+- Intervalo de 6ª menor.
+- Funciones armónicas en tonalidad menor.
+- Función tónica.
+- Función subdominante.
+- Escala menor armónica.
+- Acorde disminuido.
+- Escala menor melódica.
+- Intercambio modal.
+- Progresiones de acordes.
+- Círculo de quintas.
+- Acordes suspendidos sus4 y sus2.
+- Acordes de 6ª.
+- Acordes de 9ª añadida 'add9'.
+- Tensiones.
+- Dominantes secundarios.
+- Tensiones de 9ª y de 13ª.
+- Alteraciones de 5ª.
+- Modos griegos.
+- Modos mayores.
+- Modos menores.
+- Modo Jónico.
+- Modo Dórico.
+- Modo Frigio.
+- Intervalo de 2ª menor.
+- Modo Lidio.
+- Intervalo de 4ª aumentada.
+- Modo Mixolidio.
+- Modo Eólico: escala menor.
+- Modo Locrio.
+- Pentatónicas «modales».
+- Modos relativos.
+- Blanca.
+- Negra con puntillo.
+- Corchea con puntillo.
+- Swing feel: corcheas.
+- Semicorcheas de swing.
+- Tresillo de semicorcheas.
+- Tresillo de negra.
+- Compás irregular.
+- Compás de amalgama.
+- Subdivisiones rítmicas.
+- Escala por tonos.
+- Acordes 7b5 y 7#5.
+- Escala disminuida T-ST.
+- Escala disminuida ST-T.
+- Escala mayor armónica.
+- Escala doble armónica.
+- Modos habituales de la escala menor melódica:
+  - Dórico b2.
+  - Lidio b7.
+  - Lidio #5.
+  - Mixolidia b13.
+  - Locria #2.
+  - Superlocria.
+- Desplazamiento entre la 2ª y la 3ª cuerda y sentido de la verticalidad.
+- Escala diatónica: diagonal y horizontal.
+- Staccato.
+- Distorsión u overdrive.
+- Palm muting.
+- Tapping.
+- Riffs.
+- Bendings.
+- Fingerpicking.
+- Shuffle.
+- Double stops.
+- Progresión de blues de 12 compases.
+- Progresión de blues de 8 compases.
+- Blues menor.
+- Estructura IIm7-V7-Imaj7 y IIm7b5-V7-Im7.
+- Dominante sustituto b5.
+- Acorde semidisminuido m7b5 y sustituciones.

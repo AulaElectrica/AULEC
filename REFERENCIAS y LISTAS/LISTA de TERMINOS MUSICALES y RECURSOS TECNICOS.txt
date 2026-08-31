@@ -1,0 +1,126 @@
+	Geografía del diapasón.
+	Afinación.
+	Sentido de la verticalidad. 
+	Acorde mayor.
+	Acorde menor.
+	Intervalo de 3ª Mayor.
+	Intervalo de 5ª justa.
+	Intervalo de 5ª justa invertida. 
+	Sistema CAGED.   
+	Inversiones.
+	Arpegios.
+	Tempo.
+	Compás.
+	Tiempo de negra.
+	Corcheas. 
+	Contratiempo.
+	Ligadura.
+	Ritmo rasgueado a corcheas. 
+	Ritmo rasgueado a semicorcheas.
+	Escala pentatónica Mayor.
+	Intervalo de 2ª Mayor.
+	Intervalo de 6ª Mayor.
+	Escala pentatónica menor.
+	Intervalo de 4ª justa.
+	Intervalo de 7ª menor.
+	Nota de Blues. 
+	Intervalo de 5ª disminuida.
+	Los 5 sectores.
+	Tonalidades relativas.
+	Figura rítmica Negras.
+	Figura rítmica Corcheas. 
+	Figura rítmica Semicorcheas. 
+	Figura rítmica Tresillos.
+	Numerador y denominador del compás.
+	Compas simple.
+	Compas compuesto.
+	Compas binario.
+	Compas ternario. 
+	Compases habituales: 4x4, 3x4 y 6x8.
+	Escala diatónica Mayor o mayor natural.
+	Intervalo de 7ª mayor.
+	Acorde de 7ª mayor.
+	Acorde de 7ª menor.
+	Armonización de una escala.
+	Acorde m7b5. 
+	Localización de grados en el diapasón. 
+	Funciones armónicas en tonalidad Mayor.
+	Función Tónica.
+	Función Subdominante. 
+	Función Dominante.
+	Acorde Dominante.
+	Tensión de Dominante.
+	Cadencias.
+	Escala diatónica menor.
+	Intervalo de 6ª menor.
+	Funciones armónicas en tonalidad menor.
+	Función Tónica.
+	Función Subdominante. 
+	Escala menor armónica.
+	Acorde disminuido. 
+	Escala menor melódica.
+	Intercambio modal. 
+	Progresiones de acordes.
+	Circulo de quintas.
+	Acordes suspendidos sus4 y sus2. 
+	Acordes de 6ª.
+	Acordes de 9ª añadida. 
+	Tensiones.
+	Dominantes secundarios.
+	Tensiones de 9ª y de 13ª.
+	Alteraciones de 5ª.
+	Modos Griegos.
+	Modos mayores
+	Modos menores.
+	Modo Jónico.
+	Modo Dórico. 
+	Modo Frigio. 
+	Intervalo de 2ª menor.
+	Modo Lidio. 
+	Intervalo de 4ª aumentada. 
+	Modo Mixolidio. 
+	Modo Eólico. Escala menor.
+	Modo Locrio.
+	Pentatónicas “modales”. 
+	Modos relativos.
+	Blanca.
+	Negra puntillo. 
+	Corchea puntillo. 
+	Swing feel Corcheas.
+	Semicorcheas de swing.
+	Tresillo de semicorcheas. 
+	Tresillo de negra.
+	Compás irregular. 
+	Compás de amalgama. 
+	Subdivisiones rítmicas.
+	Escala por tonos. 
+	Acorde 7b5 y 7#5.
+	Escala disminuida T-ST. 
+	Escala disminuida ST-T.
+	Escala mayor armónica. 
+	Escala doble armónica.
+	Modos habituales de la escala menor melódica:
+	Dórico b2.
+	Lidio b7. 
+	Lidio #5.
+	Mixolidia b13. 
+	Locria #2.
+	Superlocria.
+	Desplazamiento entre la 2ª y la 3ª cuerda y Sentido de la verticalidad.
+	Escala diatónica Diagonal y horizontal. 
+	Staccato. 
+	Distorsión u overdrive.
+	Palm Muting.
+	Tapping.
+	Riffs.
+	Bendings.
+	Finger picking. 
+	Shuffle.
+	Double Stops.
+	progresión de Blues de 12 compases. 
+	progresión de Blues de 8 compases.
+	Blues menor.
+	estructura IIm7-V7-Imaj7 y IIm7b5-V7-Im7.
+	Dominante sustituto b5.
+	Acorde semidisminuido m7b5 y Sustituciones
+
