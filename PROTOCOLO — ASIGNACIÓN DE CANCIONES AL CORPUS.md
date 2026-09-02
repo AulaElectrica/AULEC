@@ -55,7 +55,8 @@
 
     - 'Numb' de Linkin Park.
 
-    
+    **AÑADIDO — Títulos autosuficientes:**  
+    Cuando un título previamente identificado como **autosuficiente** se detecte completo y de forma independiente, podrá asignarse aunque no se haya determinado el artista. Este añadido no modifica el tratamiento del resto de casos del Nivel 2.
 
 - Si el título **no es ambiguo**:
 
