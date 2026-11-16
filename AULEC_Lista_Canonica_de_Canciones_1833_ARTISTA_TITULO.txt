@@ -1,1847 +1,1238 @@
-1. 091 — La Calle del Viento
-2. 24kGoldn feat. Iann Dior — Mood
-3. A Perfect Circle — Pet
-4. A Perfect Circle — The Package
-5. a-ha — Take On Me
-6. Abba — Mamma Mia
-7. AC/DC — Back In Black
-8. AC/DC — Dirty Deeds Done Dirt Cheap
-9. AC/DC — For Those About To Rock (We Salute You)
-10. AC/DC — Go Down
-11. AC/DC — Hard As A Rock
-12. AC/DC — Hell Ain’t A Bad Place To Be
-13. AC/DC — Hells Bells
-14. AC/DC — Highway to Hell
-15. AC/DC — If You Want Blood You’ve Got It
-16. AC/DC — It’s A Long Way To The Top
-17. AC/DC — Jailbreak
-18. AC/DC — Live Wire
-19. AC/DC — Riff Raff
-20. AC/DC — Rock ‘n’ Roll Singer
-21. AC/DC — Shoot To Thrill
-22. AC/DC — Sin City
-23. AC/DC — Stiff Upper Lip
-24. AC/DC — The Jack
-25. AC/DC — Thunderstruck
-26. AC/DC — TNT
-27. AC/DC — Whole Lotta Rosie
-28. AC/DC — You Shook Me All Night Long
-29. Accept — Blood of the Nations
-30. Accept — Shadow Soldiers
-31. Aerosmith — Cryin'
-32. Aerosmith — Dream On
-33. Aerosmith — Dude (Looks Like a Lady)
-34. Aerosmith — I Don’t Want To Miss A Thing
-35. Aerosmith — Mama Kin
-36. Aerosmith — Walk This Way
-37. Agustín Barrios — La Catedral
-38. Airbourne — Runnin’ Wild
-39. Aitana — Formentera
-40. Al Green — Let’s Stay Together
-41. Al Jarreau — Moonlighting Theme
-42. Alan Parsons Project — Eye in the Sky
-43. Alan Parsons Project — The Turn Of A Friendly Car
-44. Alanis Morissette — Ironic
-45. Alannah Myles — Black Velvet
-46. Alaska y Dinarama — A quién le importa
-47. Alaska y Dinarama — Ni Tú Ni Nadie
-48. Alaska y los Pegamoides — Bailando
-49. Alcatrazz — Jet To Jet
-50. Alejandro Sanz — Viviendo Deprisa
-51. Alice Cooper — Elected
-52. Alice Cooper — Poison
-53. Alice in Chains — Man in the Box
-54. Alice in Chains — We Die Young
-55. Alicia Keys — No One
-56. Alicia Keys — Superwoman
-57. Alien Ant Farm — Smooth Criminal
-58. All That Remains — Two Weeks
-59. Allen Toussaint — Happiness
-60. Amaral — Días de Verano
-61. Amaranthe — Burn With Me
-62. America — Sister Golden Hair
-63. Ana Mena — Musica ligera
-64. Andy Timmons — Electric Gypsy
-65. Andy Williams — Days of Wine and Roses
-66. Angine de Poitrine — Fabienk
-67. Angine de Poitrine — Mata Zyklek
-68. Angine de Poitrine — Sarniezz
-69. Angine de Poitrine — Sherpa
-70. Animals as Leaders — Tempting Time
-71. Anouk — Nobody’s Wife
-72. Antonio Carlos Jobim — Águas de Março
-73. Antonio Carlos Jobim — Corcovado
-74. Antônio Carlos Jobim — Desafinado
-75. Antonio Carlos Jobim — How Insensitive
-76. Antônio Carlos Jobim — Triste
-77. Antonio Vega — El Sitio de mi Recreo
-78. Arch Enemy — War Eternal
-79. Arctic Monkeys — 505
-80. Arctic Monkeys — Crying Lightning
-81. Arctic Monkeys — I Bet You Look Good on the Dancefloor
-82. Arde Bogotá — Cariño
-83. Arde Bogotá — Exoplaneta
-84. Arde Bogotá — Los Perros
-85. Arde Bogotá — Millenial
-86. Arde Bogotá — Tan Alto Como Tus Dudas
-87. Arde Bogotá — Virtud y Castigo
-88. Asking Alexandria — Into The Fire
-89. Atom Eyes — Blue Into Gold
-90. Audioslave — Getaway Car
-91. Audioslave — Like A Stone
-92. AULEC — Entrada provisional adicional
-93. Australian Blonde — Chup Chup
-94. Avenged Sevenfold — Afterlife
-95. Avenged Sevenfold — Bat Country
-96. Avenged Sevenfold — Beast and the Harlot
-97. Avenged Sevenfold — Buried Alive
-98. Avenged Sevenfold — Hail To The King
-99. Avenged Sevenfold — Roman Sky
-100. Avenged Sevenfold — Scream
-101. Avenged Sevenfold — Welcome to the Family
-102. B.B. King — Darling you know i love you
-103. B.B. King — I’m moving on
-104. B.B. King — Sweet Sixteen
-105. B.B. King — The Thrill Is Gone
-106. B.B. King — There must be a better world somewhere
-107. Bad Company — Can’t Get Enough
-108. Barney Kessel — Swedish Pastry
-109. Barricada — No Hay Tregua
-110. Beastie Boys — You Gotta Fight for Your Right to Party
-111. Bee Gees — How deep is your love
-112. Bee Gees — More than a Woman
-113. Bee Gees — Night Fever
-114. Bee Gees — Stayin' Alive
-115. Bee Gees — You Should Be Dancing
-116. Bela Fleck & The Flecktones — Lover’s leap
-117. Bela Fleck & The Flecktones — That Old Thing
-118. Belako — Track Sei
-119. Ben E. King — Stand by Me
-120. Benson Boone — Beautiful Things
-121. Biffy Clyro — Booooom, Blast & Ruin
-122. Biffy Clyro — Bubbles
-123. Biffy Clyro — Cloud of Stink
-124. Biffy Clyro — God & Satan
-125. Biffy Clyro — Many Of Horror
-126. Biffy Clyro — Mountains
-127. Biffy Clyro — Shock Shock
-128. Big Joe Turner — Flip, Flop And Fly
-129. Big Soul — Hippy Hippy Shake
-130. Bill Withers — Ain’t No Sunshine
-131. Billie Eilish — Bad Guy
-132. Billie Eilish — idontwannabeyouanymore
-133. Billy Talent — Crooked minds
-134. Billy Talent — Dead Silence
-135. Billy Talent — Devil in a Midnight Mass
-136. Billy Talent — Navy Song
-137. Billy Talent — Show me the way
-138. Billy Talent — Surprise surprise
-139. Billy Talent — Surrender
-140. Billy Talent — Viking Death March
-141. Black Country Communion — One Last Soul
-142. Black Orpheus — Black Orpheus
-143. Black Sabbath — A National Acrobat
-144. Black Sabbath — Children Of The Grave
-145. Black Sabbath — Electric Funeral
-146. Black Sabbath — Fairies Wear Boots
-147. Black Sabbath — Heaven and Hell
-148. Black Sabbath — Iron Man
-149. Black Sabbath — Killing Yourself To Live
-150. Black Sabbath — Paranoid
-151. Black Sabbath — Sabbath Bloody Sabbath
-152. Black Sabbath — Sabbra Cadabra
-153. Black Sabbath — Symptom Of The Universe
-154. Black Sabbath — War Pigs
-155. Black Veil Brides — The Vengeance
-156. Blackberry Smoke — All Over the Road
-157. Blackberry Smoke — One Horse Town
-158. Blackberry Smoke — You Hear Georgia
-159. Blind Melon — 2X4
-160. Blind Melon — Soak the Sin
-161. Blur — Song 2
-162. Bob Dylan — Don't Think Twice, It's All Right
-163. Bob Dylan — Like a Rolling Stone
-164. Bob Marley — Exodus
-165. Bob Marley — Get Up, Stand Up
-166. Bob Marley — Jamming
-167. Bob Marley — Small Axe
-168. Bob Marley — Stir It Up
-169. Bob Seger — Old Time Rock and Roll
-170. Bobby Caldwell — What You Won't Do for Love
-171. Bon Jovi — Always
-172. Bon Jovi — Bed Of Roses
-173. Bon Jovi — Born to Be My Baby
-174. Bon Jovi — In These Arms
-175. Bon Jovi — It’s My Life
-176. Bon Jovi — Livin’ on a Prayer
-177. Bon Jovi — Never Say Goodbye
-178. Bon Jovi — Runaway
-179. Bon Jovi — Wanted Dead Or Alive
-180. Bon Jovi — You Give Love a Bad Name
-181. Bonnie Tyler — It's a Heartache
-182. Boston — Don’t Look Back
-183. Boston — More Than A Feeling
-184. Boston — Peace Of Mind
-185. Boston — Rock and Roll Band
-186. Brannlop — El lugar de los Sueños
-187. Brannlop — Todo para el Pueblo
-188. Brave (OST) — Volaré°°
-189. Breaking Benjamin — The Diary of Jane
-190. Brian May — Driven By You
-191. Brian May — Last Horizon
-192. Bruce Springsteen — Brilliant Disguise
-193. Bruce Springsteen — Dancing In The Dark
-194. Bruce Springsteen — Radio Nowhere
-195. Bruce Springsteen — Sad Eyes
-196. Bruce Springsteen — The River
-197. Bruce Springsteen — Tougher Than the Rest
-198. Bruce Springsteen — Waitin’ on a Sunny Day
-199. Bruno Mars — I Just Might
-200. Bruno Mars — Locked Out Of Heaven
-201. Bruno Mars & Lady ga-ga — Die with a Smile
-202. Bryan Adams — All for Love
-203. Bryan Adams — Heaven
-204. Bryan Adams — Summer Of ’69
-205. Burt Bacharach — Raindrops Keep Fallin’ on My Head
-206. Bush — Glycerine
-207. CA7RIEL & Paco Amoroso — DUMBAI
-208. CA7RIEL & Paco Amoroso — EL ÚNICO
-209. Caccini — Ave Maria
-210. Cacophony — Concerto
-211. Camel — Echoes
-212. Camel — Lady Fantasy Jam
-213. Camel — Missing
-214. Camel — Nimrodel
-215. Camel — Pressure Points
-216. Camel — Rhayader Alone
-217. Camel — Rhayader Goes to Town
-218. Camel — Sasquatch
-219. Camel — Snow Goose
-220. Camel — Stationary traveller
-221. Cat Stevens — Peace train
-222. Cat Stevens — Wild World
-223. Chance Peña — Collapse
-224. Chance Peña — Song From Yesterday
-225. Chance Peña — The Mountain Is You
-226. Chance Peña — The Voyager
-227. Charles Mingus — Jelly Roll
-228. Charlie Parker — Anthropology
-229. Charlie Parker — Blues for Alice
-230. Charlie Parker — Crazeology
-231. Charlie Parker — Donna Lee
-232. Charlie Parker — Steeplechase
-233. Cher — Strong Enough
-234. Chet Baker — Everything happens to me
-235. Chet Baker — My Funny Valentine
-236. Chevelle — The Red
-237. Chic — Freak Out
-238. Chic — Good Times
-239. Chicago — 25 or 6 to 4
-240. Chick Corea — Spain
-241. Chick Corea — Steps
-242. Children of Bodom — Downfall
-243. Children of Bodom — Silent Night, Bodom Night
-244. Chris Isaak — Wicked Game
-245. Christone Kingfish — My bad
-246. Chuck Berry — Johnny B. Goode
-247. Claire Fisher — Gaviota
-248. Cocodrile Dundee — Opening titles
-249. Cold War Kids — Hang Me Up to Dry
-250. Coldplay — Adventure of a lifetime
-251. Coldplay — Clocks
-252. Coldplay — In My Place
-253. Coldplay — Yellow
-254. Cole Porter — All of You
-255. Cole Porter — Easy to Love
-256. Collective Soul — Heavy
-257. Conan Gray — Heather
-258. Connie Francis — Who’s Sorry Now?
-259. Counting Crows — Mr. Jones
-260. Cream — Sunshine Of Your Love
-261. Cream — White Room
-262. Creedence Clearwater Revival — Bad Moon Rising
-263. Creedence Clearwater Revival — Born on the Bayou
-264. Creedence Clearwater Revival — Fortunate Son
-265. Creedence Clearwater Revival — Good Golly Miss Molly
-266. Creedence Clearwater Revival — Green River
-267. Creedence Clearwater Revival — Have you ever seen the rain
-268. Creedence Clearwater Revival — Molina
-269. Creedence Clearwater Revival — Proud Mary
-270. Crowded House — Don’t Dream It’s Over
-271. Cyndi Lauper — Girls Just Want To Have Fun
-272. Cyndi Lauper — Time After Time
-273. Daft Punk — Get Lucky
-274. Dan Ar Braz — Belong
-275. Dan Ar Braz — Broken Prayer
-276. Dan Ar Braz — Duchesse
-277. Dan Ar Braz — Orgie Nocturne
-278. Dan Ar Braz — Rock Around the Loc’h
-279. Dani Fernandez — Dile a los demás
-280. Dani Fernandez — Grace
-281. Dani Fernandez — Plan fatal
-282. Dani Martín — Cero
-283. Daniel Sabater — Como quieres que me enfade
-284. Danza Invisible — Sabor de Amor
-285. Danzig — Mother
-286. David Bowie — Absolute Beginners
-287. David Bowie — Changes
-288. David Bowie — China Girl
-289. David Bowie — Fame
-290. David Bowie — Heroes
-291. David Bowie — Lady Stardust
-292. David Bowie — Life on Mars?
-293. David Bowie — Queen Bitch
-294. David Bowie — Rebel Rebel
-295. David Bowie — Space Oddity
-296. David Bowie — Starman
-297. David Bowie — Suffragette City
-298. David Bowie — Thursday's Child
-299. David Bowie — Ziggy Stardust
-300. David Lee Roth — 40 Below
-301. David Lee Roth — A Lil' Ain't Enough
-302. David Lee Roth — Big Trouble
-303. David Lee Roth — Damn Good
-304. David Lee Roth — Drop in the Bucket
-305. David Lee Roth — Elephant Gun
-306. David Lee Roth — Goin’ Crazy
-307. David Lee Roth — Hina
-308. David Lee Roth — Hot dog and a Shake
-309. David Lee Roth — It’s Showtime
-310. David Lee Roth — Just Like Paradise
-311. David Lee Roth — Knucklebones
-312. David Lee Roth — Lady Luck
-313. David Lee Roth — Last Call
-314. David Lee Roth — Perfect Timing
-315. David Lee Roth — Sensible Shoes
-316. David Lee Roth — Shyboy
-317. David Lee Roth — Skyscraper
-318. David Lee Roth — The Bottom line
-319. David Lee Roth — The Dogtown Shuffle
-320. David Lee Roth — Two Fools a Minute
-321. David Lee Roth — Yankee Rose
-322. Debussy — Arabesque
-323. Deep Purple — Black Night
-324. Deep Purple — Bloodsucker
-325. Deep Purple — Burn
-326. Deep Purple — Fireball
-327. Deep Purple — Highway Star
-328. Deep Purple — Hold On
-329. Deep Purple — Jam Stew
-330. Deep Purple — Knocking at Your Back Door
-331. Deep Purple — Lady Double Dealer
-332. Deep Purple — Lazy
-333. Deep Purple — Maybe I’m a Leo
-334. Deep Purple — Mistreated
-335. Deep Purple — Painted Horse
-336. Deep Purple — Pictures Of Home
-337. Deep Purple — Smoke On The Water
-338. Deep Purple — Soldier Of Fortune
-339. Deep Purple — Space Truckin
-340. Deep Purple — Wring That Neck
-341. Def Leppard — Hysteria
-342. Def Leppard — Love Bites
-343. Delbert McClinton — Going Back to Louisiana
-344. DELTARUNE — Attack of the Killer Queen
-345. DELTARUNE — Hammer of Justice
-346. DELTARUNE — Rude Buster
-347. Depeche Mode — Enjoy The Silence
-348. Depeche Mode — Personal Jesus
-349. Dick Dale — Misirlou
-350. Dinosaur Jr — Feel The Pain
-351. Dio — Holy Diver
-352. Dio — Rainbow In The Dark
-353. Dionne Warwick — Alfie
-354. Dire Straits — Brothers In Arms
-355. Dire Straits — Down To The Waterline
-356. Dire Straits — Lady Writer
-357. Dire Straits — Love Over Gold
-358. Dire Straits — Money For Nothing
-359. Dire Straits — Once Upon a Time In the West
-360. Dire Straits — Private Investigations
-361. Dire Straits — Romeo and Juliet
-362. Dire Straits — Six Blade Knife
-363. Dire Straits — So far away
-364. Dire Straits — Solid Rock
-365. Dire Straits — Sultans of Swing
-366. Dire Straits — Telegraph Road
-367. Dire Straits — Tunnel Of Love
-368. Dire Straits — Two Young Lovers
-369. Dire Straits — Walk Of Life
-370. Dire Straits — Water Of Love
-371. Dire Straits — Where Do You Think You’re Going
-372. Dire Straits — Why Worry
-373. Dizzy Gillespie — A Night in Tunisia
-374. Django Reinhardt — Minor Swing
-375. DMX — X Gon' Give It to Ya
-376. Doja Cat — Say So
-377. Doja Cat feat. SZA — Kiss Me More
-378. Doja Cat, The Weeknd — You Right
-379. Domenico Modugno — Volare
-380. Donna Summer — Bad Girls
-381. Donna Summer — Hot Stuff
-382. Donna Summer — She works hard for the money
-383. Dooley Wilson — As Time Goes By
-384. Doris Day — Dream a Little Dream of Me
-385. Dream Theater — Take The Time
-386. Dream Theater — The Best Of Times
-387. Dream Theater — The Spirit Carries On
-388. Dream Theater — Under A Glass Moon
-389. Dua Lipa — Don’t Start Now
-390. Dua Lipa — Physical
-391. Duffy — Warwick Avenue
-392. Duke Ellington — Caravan
-393. Duke Ellington — Cotton Tail
-394. Duke Ellington — Creole Love Call
-395. Duke Ellington — Don't Get Around Much Anymore
-396. Duncan Dhu — Una Calle de París
-397. Duncan Laurence — Arcade
-398. Ed Sheeran — Thinking Out Loud
-399. Eddie Cochran — Summertime Blues
-400. Eddie Harris — Cold Duck Time
-401. Eddie Holman — I Surrender
-402. eden ahbez — Nature Boy
-403. Efecto Mariposa — No me crees
-404. Efecto Mariposa — Por quererte
-405. El Canto del Loco — Contigo
-406. El Canto del Loco — Insoportable
-407. El Canto del Loco — Nada volverá a ser como antes
-408. El Canto del Loco — Peter Pan
-409. El Gran — Dime Si Tú Quieres
-410. El Gran — Entre Playas & Palmeras
-411. El Gran — Funky Flow
-412. El Gran — My Love
-413. El Kanka — Para Quedarte
-414. El Kanka — Querría
-415. El libro de la Selva — Quiero ser como tu
-416. Elder — Omens
-417. Elder — Through Zero
-418. Ella Fitzgerald — One for My Baby
-419. Elton John — Saturday Night’s Alright (For Fighting)
-420. Elvis Presley — A Little Less Conversation
-421. Elvis Presley — Always on my mind
-422. Elvis Presley — Burning Love
-423. Elvis Presley — Can't Help Falling in Love
-424. Elvis Presley — Heartbreak Hotel
-425. Elvis Presley — Hound Dog
-426. Elvis Presley — Jailhouse Rock
-427. Elvis Presley — One Night
-428. Elvis Presley — Return to Sender
-429. Elvis Presley — Suspicious Minds
-430. Emerson, Lake & Palmer — The Great Gates Of Kiev
-431. Emerson, Lake & Palmer — The Sage
-432. Eric Carmen — All by Myself
-433. Eric Clapton — Can’t find my way home
-434. Eric Clapton — Change The World
-435. Eric Clapton — Cocaine
-436. Eric Clapton — Crossroads
-437. Eric Clapton — I Shot the Sheriff
-438. Eric Clapton — I'm Tore Down
-439. Eric Clapton — Layla
-440. Eric Clapton — Mean Old World
-441. Eric Clapton — Tears in Heaven
-442. Eric Clapton — Wonderful Tonight
-443. Eric Johnson — Cliffs of Dover
-444. Eric Johnson — Manhattan
-445. Erik Satie — Gymnopédie No1
-446. Etta James — At Last
-447. Etta James — Stormy Weather
-448. Europe — Carrie
-449. Europe — Superstitious
-450. Europe — The Final Countdown
-451. Evanescence — Bring Me To Life
-452. Evanescence — Going Under
-453. Exodus — Metal Command
-454. Extreme — He-Man Woman Hater
-455. Extreme — Hole Hearted
-456. Extreme — Lil Jack Horny
-457. Extremoduro — Ama Ama y ensancha el Alma
-458. Extremoduro — Buscando una Luna
-459. Extremoduro — Decidí
-460. Extremoduro — Jesucristo García
-461. Extremoduro — Necesito droga y amor
-462. Extremoduro — Prometeo
-463. Extremoduro — Si Te Vas
-464. Extremoduro — So Payaso
-465. Extremoduro — Sucede
-466. Faith No More — Easy
-467. Fito y Fitipaldis — 214 Sullivan Street
-468. Fito y Fitipaldis — Acabo de llegar
-469. Fito y Fitipaldis — Antes De Que Cuente Diez
-470. Fito y Fitipaldis — Como Pollo Sin Cabeza
-471. Fito y Fitipaldis — El monte de los aullidos
-472. Fito y Fitipaldis — La Casa Por El Tejado
-473. Fito y Fitipaldis — La cuisine de Bernard
-474. Fito y Fitipaldis — Las nubes de tu pelo
-475. Fito y Fitipaldis — Me Equivocaría Otra Vez
-476. Fito y Fitipaldis — Mentira y verdad
-477. Fito y Fitipaldis — Nada de Nada
-478. Fito y Fitipaldis — Pájaros disecados
-479. Fito y Fitipaldis — Por la boca vive el pez
-480. Fito y Fitipaldis — Qué necesario es el Rock & Roll
-481. Fito y Fitipaldis — Quiero beber hasta perder el control
-482. Fito y Fitipaldis — Quiero Ser Una Estrella
-483. Fito y Fitipaldis — Soldadito Marinero
-484. Fito y Fitipaldis — Viene y va
-485. Fito y Fitipaldis — Whisky Barato
-486. Five Nights at Freddy’s — Foxy’s Song
-487. Five Nights at Freddy’s — Sister Location Song
-488. Five Nights at Freddy’s — You Can't Hide
-489. Fleet Foxes — Oliver James
-490. Fleetwood Mac — Never Going Back Again
-491. Foo Fighters — Everlong
-492. Foo Fighters — I’ll Stick Around
-493. Foo Fighters — Under You
-494. Foo Fighters — Walk
-495. Foreigner — I Want To Know What Love Is
-496. Frank Sinatra — All of Me
-497. Frank Sinatra — Fly Me to the Moon
-498. Frank Sinatra — My Way
-499. Frank Sinatra — That’s Life
-500. Frank Zappa — Fembot in a Wet T-Shirt
-501. Frank Zappa — The Black Page #1
-502. Frankie Valli — Can’t Take My Eyes Off You
-503. Franz Ferdinand — Right Action
-504. Franz Ferdinand — Take Me Out
-505. Free — All Right Now
-506. Free — Fire and water
-507. Free — I’ll be Creepin’
-508. Free — Mr. Big
-509. Free — The stealer
-510. Funkadelic — Maggot Brain
-511. Fuzz — Fuzz’s Fourth Dream
-512. Fuzz — What's in My Head?
-513. Gary Burton — Walter L.
-514. Gary Burton Quartet — Country Roads
-515. Gary Moore — All Your Love
-516. Gary Moore — As the Years Go Passing By
-517. Gary Moore — Midnight Blues
-518. Gary Moore — Parisienne Walkways
-519. Gary Moore — Still Got The Blues
-520. Gary Moore — The Loner
-521. Gary Moore — Too tired
-522. Gary Moore — Walking By Myself
-523. Genesis — Afterglow
-524. Genesis — Firth Of Fifth
-525. Genesis — Follow You Follow Me
-526. Genesis — Squonk
-527. Genesis — Supper’s Ready
-528. Genesis — The Carpet Crawlers
-529. George Benson — Beyond the Sea
-530. George Benson — On Broadway
-531. George Benson — This Masquerade
-532. George Gershwin — A Foggy Day
-533. George Gershwin — I Got Rhythm
-534. Ghost — Cirice
-535. Ghost — Dance Macabre
-536. Ghost — Griftwood
-537. Ghost — Guiding Lights
-538. Ghost — I’m A Marionette
-539. Ghost — Lachryma
-540. Ghost — Marks Of The Evil One
-541. Ghost — Peacefield
-542. Ghost — Satan Prayer
-543. Ghost — Satanized
-544. Ghost — Square Hammer
-545. Ghost — Year Zero
-546. Giacomo Puccini — Nessun Dorma
-547. Gipsy Kings — No Volveré
-548. Gloria Gaynor — I Will Survive
-549. Gloria Trevi — Todos me miran
-550. Gojira — Backbone
-551. Gorillaz — Feel Good Inc.
-552. Gossip — Heavy Cross
-553. Gossip — Standing In The Way Of Control
-554. Grand Funk Railroad — In need
-555. Grand Funk Railroad — We’re An American Band
-556. Green Day — 21 Guns
-557. Green Day — American Idiot
-558. Green Day — Basket Case
-559. Green Day — Boulevard Of Broken Dreams
-560. Green Day — Holiday
-561. Green Day — Jesus Of Suburbia
-562. Green Day — Pollyanna
-563. Green Day — Wake Me Up When September Ends
-564. Green Day — When I Come Around
-565. Grover Washington Jr. — Just the Two of Us
-566. Gun — Word Up
-567. Guns N' Roses — 14 Years
-568. Guns N' Roses — Breakdown
-569. Guns N’ Roses — Civil War
-570. Guns N’ Roses — Don’t Cry
-571. Guns N’ Roses — Don’t Damn Me
-572. Guns N’ Roses — Double Talkin Jive
-573. Guns N’ Roses — Dust N’ Bones
-574. Guns N’ Roses — Estranged
-575. Guns N’ Roses — Garden Of Eden
-576. Guns N’ Roses — It’s So Easy
-577. Guns N’ Roses — Knockin’ On Heaven’s Door
-578. Guns N’ Roses — Locomotive
-579. Guns N’ Roses — Mr Brownstone
-580. Guns N’ Roses — My Michelle
-581. Guns N’ Roses — Nightrain
-582. Guns N’ Roses — November Rain
-583. Guns N’ Roses — One on a Million
-584. Guns N’ Roses — Out Ta Get Me
-585. Guns N’ Roses — Paradise City
-586. Guns N’ Roses — Patience
-587. Guns N’ Roses — Perfect Crime
-588. Guns N’ Roses — Right Next Door To Hell
-589. Guns N' Roses — Rocket Queen
-590. Guns N’ Roses — Since I Don’t Have You
-591. Guns N’ Roses — Sweet Child O’ Mine
-592. Guns N’ Roses — The Garden
-593. Guns N’ Roses — Think About You
-594. Guns N’ Roses — Used To Love Her
-595. Guns N’ Roses — Welcome To The Jungle
-596. Guns N’ Roses — You Could Be Mine
-597. Guns N’ Roses — You’re Crazy
-598. Gustavo Santaolalla — The Last of Us
-599. Guthrie Govan — Beautiful Imperfection
-600. Guthrie Govan — Heart of the City
-601. Guthrie Govan — Hollywood Woman
-602. Guthrie Govan — Jelly Bean
-603. Guthrie Govan — The Cost of Loving
-604. Hardcore Superstar — We Don't Need a Cure
-605. Harry Nilsson — Everybody's Talkin' (Midnight Cowboy)
-606. Harry Styles — As It Was
-607. Harry Styles — Watermelon Sugar
-608. Helloween — A Little Time
-609. Helloween — A Tale That Wasn’t Right
-610. Helloween — Dr Stein
-611. Helloween — Eagle Fly Free
-612. Helloween — Future World
-613. Helloween — I Want Out
-614. Helloween — March Of Time
-615. Helloween — You Got the Right
-616. Henry Mancini — Moon River
-617. Henry Mancini — Pink Panther Theme
-618. Herbie Hancock — Cantaloupe Island
-619. Héroes del Silencio — Entre Dos Tierras
-620. Héroes del Silencio — La chispa adecuada
-621. Héroes del Silencio — Maldito Duende
-622. HIM — Wicked Game
-623. Hoagy Carmichael — Star Dust
-624. Hoobastank — The Reason
-625. Huey Lewis & The News — The Power Of Love
-626. Iggy Pop — The Passenger
-627. Incubus — Summer Romance (Antigravity Love Song)
-628. INXS — A New Sensation
-629. INXS — Need You Tonight
-630. Iron Maiden — 2 Minutes To Midnight
-631. Iron Maiden — Aces High
-632. Iron Maiden — Afraid to Shoot Strangers
-633. Iron Maiden — Blood Brothers
-634. Iron Maiden — Caught Somewhere In Time
-635. Iron Maiden — Childhoods End
-636. Iron Maiden — Children Of The Damned
-637. Iron Maiden — Deja Vu
-638. Iron Maiden — Fear Of The Dark
-639. Iron Maiden — Hallowed be Thy name
-640. Iron Maiden — Infinite Dreams
-641. Iron Maiden — No Prayer for the Dying
-642. Iron Maiden — Only the Good Die Young
-643. Iron Maiden — Phantom Of The Opera
-644. Iron Maiden — Powerslave
-645. Iron Maiden — Revelations
-646. Iron Maiden — Rime of the Ancient Mariner
-647. Iron Maiden — Run To The Hills
-648. Iron Maiden — Running Free
-649. Iron Maiden — Sea of Madness
-650. Iron Maiden — Seventh Son Of A Seventh Son
-651. Iron Maiden — The Evil That Men Do
-652. Iron Maiden — The Loneliness Of The Long Distance Runner
-653. Iron Maiden — The Number Of The Beast
-654. Iron Maiden — The Trooper
-655. Iron Maiden — The Wicker Man
-656. Iron Maiden — Wasted Years
-657. Iron Maiden — Where Eagles Dare
-658. Jaco Pastorius — The Chicken
-659. James Arthur — Empty Space
-660. James Blake — Retrograde
-661. James Brown — Cold Sweat
-662. James Brown — Get Up (I Feel Like Being a) Sex Machine
-663. James Brown — Payback
-664. James Brown — Please Please Please
-665. James Brown — Soul Power
-666. Jamiroquai — Alright
-667. Jamiroquai — Canned Heat
-668. Jamiroquai — Corner of the Earth
-669. Jamiroquai — Cosmic Girl
-670. Jamiroquai — Space cowboy
-671. Jamiroquai — Virtual Insanity
-672. Janis Joplin — Summertime
-673. Jarabe de Palo — Agua y Sed
-674. Jason Mraz — I'm Yours
-675. Jean-Michel Jarre — Fourth Rendez-Vous
-676. Jeff Beck — ’Cause We’ve Ended as Lovers
-677. Jeff Beck — Freeway Jam
-678. Jeff Lynne — Stream of Stars
-679. Jeremy Zucker — comethru
-680. Jerome Kern — All the Things You Are
-681. Jerry Lee Lewis — Great Balls Of Fire
-682. JerryC — Canon Rock
-683. Jesus Christ Superstar — Everything’s Alright
-684. Jesus Christ Superstar — Gethsemane
-685. Jesus Christ Superstar — Heaven on Their Minds
-686. Jesus Christ Superstar — Hosanna
-687. Jesus Christ Superstar — I Don’t Know how to Love him
-688. Jesus Christ Superstar — King Herod’s Song
-689. Jesus Christ Superstar — Pilate’s Dream
-690. Jesus Christ Superstar — Simon Zealotes
-691. Jesus Christ Superstar — Superstar
-692. Jesus Christ Superstar — The Last Supper
-693. Jesus Christ Superstar — What’s the Buzz
-694. Jet — Are You Gonna Be My Girl
-695. Jethro Tull — Jeffrey Goes to Leicester Square
-696. Jethro Tull — Thick As A Brick
-697. Jimi Hendrix — All Along the Watchtower
-698. Jimi Hendrix — Bold As Love
-699. Jimi Hendrix — Crosstown Traffic
-700. Jimi Hendrix — Have You Ever Been (To Electric Ladyland)
-701. Jimi Hendrix — Hey Joe
-702. Jimi Hendrix — Little Wing
-703. Jimi Hendrix — Manic Depression
-704. Jimi Hendrix — One Rainy Wish
-705. Jimi Hendrix — Red House
-706. Jimi Hendrix — Remember
-707. Jimi Hendrix — The Wind Cries Mary
-708. Jimi Hendrix — Wait Until Tomorrow
-709. Jimmy Bryant — The Night Rider
-710. Jinjer — Pisces
-711. João Gilberto — Chega de Saudade (No More Blues)
-712. Joe Bonamassa & Beth Hart — I'll Take Care of You
-713. Joe Cocker — Unchain My Heart
-714. Joe Cocker — You Can Leave Your Hat On
-715. Joe Satriani — Always With Me, Always With You
-716. Joe Satriani — Crushing Day
-717. Joe Satriani — Cryin’
-718. Joe Satriani — Flying in a Blue Dream
-719. Joe Satriani — Lords of Karma
-720. Joe Satriani — Satch Boogie
-721. Joe Satriani — Summer Song
-722. Joe Satriani — Surfin’ With The Alien
-723. Joe Satriani — Ten Words
-724. Joe Satriani — The Forgotten
-725. Joe Satriani — The Mystical Potato Head Groove Thing
-726. Joe Satriani — Time Machine
-727. John Barry — Midnight Cowboy
-728. John Coltrane — Blue Train
-729. John Coltrane — Cousin Mary
-730. John Coltrane — Mr. PC
-731. John Debney — The Young Riders
-732. John Denver — Leaving on a Jet Plane
-733. John Hiatt — Ain’t ever going back
-734. John Lennon — Imagine
-735. John Lewis — Afternoon in Paris
-736. John Mayer — Slow Dancing In A Burning Room
-737. John Michael Howell, JVKE & ZVC — A Thousand Years
-738. John Williams — May the Force Be with You (Star Wars)
-739. John Williams — Star Wars Theme
-740. John Zorn — Metapsychomagia
-741. Johnny Cash — I Won’t Back Down
-742. Johnny Marr — Ariel
-743. Johnny Marr — Hi Hello
-744. Johnny Marr — Human
-745. Johnny Marr — Lightning People
-746. Johnny Winter — Rock and Roll, Hoochie Koo
-747. Joji — Like You Do
-748. Jon Bellion — Simple and Sweet
-749. Jordan Smith — Only Love
-750. Joseph Kosma — Autumn Leaves
-751. Journey — Any Way You Want It
-752. Journey — Don’t Stop Believing
-753. Judas Priest — A Touch Of Evil
-754. Judas Priest — Breaking the Law
-755. Judas Priest — Electric Eye
-756. Judas Priest — Painkiller
-757. Judas Priest — The Green Manalishi
-758. Judas Priest — The Sentinel
-759. Justin Bieber — Love Yourself
-760. Justin Bieber — One Time
-761. Justin Timberlake — Can’t Stop the Feeling
-762. Kaiser Chiefs — Everything Is Average Nowadays
-763. Kaleo — Alter Ego
-764. Kaleo — Break My Baby
-765. Kaleo — Way Down We Go
-766. Kansas — Dust In The Wind
-767. Karate — Original Spies
-768. Karol G — Provenza
-769. Karol G — Si Antes Te Hubiera Conocido
-770. Kate Bush — Wuthering Heights
-771. Kenny Burrell — Chitlins Con Carne
-772. Kenny Burrell — Midnight Blue
-773. Kenny Dorham — Blue Bossa
-774. Kevin Kaarl — Vámonos a Marte
-775. Kevin Kaarl — Vete
-776. Killswitch Engage — My Curse
-777. King Crimson — 21St Century Schizoid Man
-778. King Crimson — Discipline
-779. King Crimson — Epitaph
-780. King Crimson — Fallen Angel
-781. King Crimson — I talk to the wind
-782. King Crimson — Matte Kudasai
-783. King Crimson — Night Watch
-784. King Crimson — Pictures of a City
-785. King Crimson — Starless
-786. King Crimson — The Court Of The Crimson King
-787. King Gizzard & the Lizard Wizard — Phantom Island
-788. Kingfish — 662
-789. Kingfish — Outside this town
-790. Kingfish — That’s What You Do
-791. Kings of Leon — Fans
-792. Kings of Leon — Rock City
-793. Kings of Leon — Sex on Fire
-794. Kings of Leon — Supersoaker
-795. Kings of Leon — Use Somebody
-796. KISS — Crazy Crazy Nights
-797. KISS — Detroit Rock City
-798. KISS — Hide Your Heart
-799. KISS — I was made for loving you
-800. KISS — Lick It Up
-801. KISS — Love Gun
-802. KISS — Rock And Roll All Nite
-803. Kiyoshi Hikawa — Limit-Break × Survivor (Dragon Ball Super)
-804. Koji Kondo — Lost Woods (The Legend of Zelda: Ocarina of Time)
-805. Kool & the Gang — Celebration
-806. Kool & the Gang — Jungle Boogie
-807. Kyuss — Space Cadet
-808. La Guardia — Cuando Brille el Sol
-809. La Oreja de Van Gogh — 20 de Enero
-810. La Oreja de Van Gogh — La Playa
-811. La Oreja de Van Gogh — Muñeca de Trapo
-812. La Plazuela — Péiname Juana
-813. La Plazuela — Realejo Beach
-814. Lagartija Nick — Nuevo Harlem
-815. Laufey — From the Start
-816. Led Zeppelin — Achilles Last Stand
-817. Led Zeppelin — Babe, I’m Gonna Leave You
-818. Led Zeppelin — Black Dog
-819. Led Zeppelin — Celebration Day
-820. Led Zeppelin — D’yer Mak’er
-821. Led Zeppelin — Dancing Days
-822. Led Zeppelin — Four Sticks
-823. Led Zeppelin — Friends
-824. Led Zeppelin — Good Times Bad Times
-825. Led Zeppelin — Immigrant Song
-826. Led Zeppelin — Kashmir
-827. Led Zeppelin — Living Loving Maid
-828. Led Zeppelin — Moby Dick
-829. Led Zeppelin — No Quarter
-830. Led Zeppelin — Out On The Tiles
-831. Led Zeppelin — Rock And Roll
-832. Led Zeppelin — Since I’ve Been Loving You
-833. Led Zeppelin — Stairway to Heaven
-834. Led Zeppelin — The Ocean
-835. Led Zeppelin — Whole Lotta Love
-836. Leiva — Terriblemente Cruel
-837. Lenny Kravitz — Always On The Run
-838. Lenny Kravitz — American Woman
-839. Lenny Kravitz — Are You Gonna Go My Way
-840. Lenny Kravitz — Can’t Get You Off My Mind
-841. Lenny Kravitz — Fly Away
-842. Leonard Cohen — Hallelujah
-843. Lera Lynn — My less favourite Life
-844. Lil Nas X — Holiday
-845. Limahl — The NeverEnding Story
-846. Link Wray — Rumble
-847. Linked Horizon — Shinzō wo Sasageyo!
-848. Linkin Park — Crawling
-849. Linkin Park — Given Up
-850. Linkin Park — In The End
-851. Linkin Park — Lying From You
-852. Linkin Park — Numb
-853. Linkin Park — One More Light
-854. Linkin Park — One Step Closer
-855. Linkin Park — Somewhere I Belong
-856. Longman — Spiral
-857. Loquillo y Trogloditas — El Ritmo del Garaje
-858. Loquillo y Trogloditas — El Rompeolas
-859. Loquillo y Trogloditas — Feo Fuerte Y Formal
-860. Lori Meyers — Emborracharme
-861. Lori Meyers — Viaje de estudios
-862. Los Lobos — Cancin del Mariachi
-863. Los Piratas — Años 80
-864. Los Piratas — Mi matadero clandestino
-865. Los Rodríguez — Hace Calor
-866. Los Rodríguez — Mucho Mejor
-867. Los Ronaldos — Ana y Choni
-868. Los Ronaldos — Guárdalo
-869. Los Ronaldos — No está
-870. Los Ronaldos — No puedo vivir sin ti
-871. Los Ronaldos — Si os Vais
-872. Los Secretos — Pero a tu lado
-873. Los Suaves — Dolores Se Llamaba Lola
-874. Los Suaves — El Afilador
-875. Los Suaves — Palabras Para Julia
-876. Los Zigarros — Dispárame
-877. Los Zigarros — Hablar, Hablar, Hablar...
-878. Lose Control — Lose Control
-879. Love of Lesbian — El Sur
-880. Lovin Spoonful — Summer In The City
-881. LP — Lost on You
-882. Ludwig van Beethoven — Symphony No. 9 in D minor, Op. 125
-883. Luz Casal — Loca
-884. Lynyrd Skynyrd — Ain’t the One
-885. Lynyrd Skynyrd — Free Bird
-886. Lynyrd Skynyrd — Gimme Three Steps
-887. Lynyrd Skynyrd — Poison Whiskey
-888. Lynyrd Skynyrd — Sweet Home Alabama
-889. M-Clan — Carolina
-890. Mac Miller — Small Worlds
-891. Maceo Parker — Blues for Shorty Bill
-892. Maceo Parker — Southwick
-893. Machine Head — None But My Own
-894. Mägo de Oz — Hasta que tu muerte nos separe
-895. Mägo de Oz — Satania
-896. Malú — Aprendiz
-897. Maná — Clavado En Un Bar
-898. Maná — El Muelle De San Blas
-899. Maná — Se me olvidó otra vez
-900. Måneskin — Beggin’
-901. Manowar — Achilles, Agony and Ecstasy in Eight Parts
-902. Manowar — Army Of The Immortals
-903. Manowar — Blood Of My Enemies
-904. Manowar — Blow Your Speakers
-905. Manowar — Carry On
-906. Manowar — Defender
-907. Manowar — Fighting The World
-908. Manowar — Gloves of Metal
-909. Manowar — Guyana
-910. Manowar — Hail To England
-911. Manowar — Holy War
-912. Manowar — Master of the Wind
-913. Manowar — Ride The Dragon
-914. Manuel Carrasco — Uno x Uno
-915. Manuel Carrasco — Ya No (Carrasco)
-916. Marea — El Hijo De La Inés
-917. Marea — En tu agujero
-918. Marea — La Luna Me Sabe a Poco
-919. Marea — La Majada
-920. Marea — Que Se Joda El Viento
-921. Marea — Romance de José Etxailarena
-922. Marea — Venas Con Humo y Palabras
-923. Mariah Carey — All I Want for Christmas Is You
-924. Mark Knopfler — Going Home
-925. Mark Knopfler — Storybook Love
-926. Mark Knopfler — The Long Road
-927. Mark Ronson — Uptown Funk (feat. Bruno Mars)
-928. Maroon 5 — Memories
-929. Maroon 5 — This Love
-930. Marvin Gaye — I Heard It Through the Grapevine
-931. Marvin Gaye — Let’s Get It On
-932. Masterplan — Heroes
-933. Mastodon — Black Tongue
-934. Mastodon — Divinations
-935. Mastodon — Stargasm
-936. Mastodon — The Hunter
-937. Matt Dennis — Angel Eyes
-938. Megadeth — A Tout Le Monde
-939. Megadeth — Countdown To Extinction
-940. Megadeth — Hangar 18
-941. Megadeth — Holy Wars The Punishment Due
-942. Megadeth — Killing Is My Business…And Business Is Good!
-943. Megadeth — Last Rites Loved To Deth
-944. Megadeth — Lucretia
-945. Megadeth — Sweating Bullets
-946. Megadeth — Symphony Of Destruction
-947. Megadeth — The Skull Beneath the Skin
-948. Megadeth — Tornado Of Souls
-949. Megadeth — Wake Up Dead
-950. Melvin Sparks — Clinton Park
-951. Melvin Sparks — Give me the night
-952. Melvin Sparks — It Is What It Is
-953. Melvin Sparks — Pick Up the Pieces
-954. Melvin Sparks — U got MEL
-955. Metallica — Am I Evil?
-956. Metallica — Battery
-957. Metallica — Blackened
-958. Metallica — Blitzkrieg
-959. Metallica — Creeping Death
-960. Metallica — Enter Sandman
-961. Metallica — Fade To Black
-962. Metallica — For Whom The Bell Tolls
-963. Metallica — Hit The Lights
-964. Metallica — Holier Than Thou
-965. Metallica — Jump In The Fire
-966. Metallica — Mama Said
-967. Metallica — Master Of Puppets
-968. Metallica — MotorBreath
-969. Metallica — My Friend Of Misery
-970. Metallica — Nothing Else Matters
-971. Metallica — One
-972. Metallica — Orion
-973. Metallica — Ride The Lightning
-974. Metallica — Seek And Destroy
-975. Metallica — The Call of Ktulu
-976. Metallica — The Ecstasy Of Gold
-977. Metallica — The Four Horsemen
-978. Metallica — The Shortest Straw
-979. Metallica — The Thing That Should Not Be
-980. Metallica — The Unforgiven
-981. Metallica — To Live Is to Die
-982. Metallica — Welcome Home Sanitarium
-983. Metallica — Whiplash
-984. Metallica — Whiskey In The Jar
-985. Metric — Black Sheep
-986. MF DOOM — Rapp Snitch Knishes
-987. Michael Gibbs — Ballet
-988. Michael Gibbs — Blue Comedy
-989. Michael Jackson — Beat It
-990. Michael Jackson — Billie Jean
-991. Michael Jackson — Black or White
-992. Michael Jackson — Don’t Stop ’Til You Get Enough
-993. Michael Jackson — Human Nature
-994. Michael Jackson — I Can't Help It
-995. Michael Jackson — I Just Can’t Stop Loving You
-996. Michael Jackson — Man in the Mirror
-997. Michael Jackson — Thriller
-998. Michael Jackson — Wanna Be Startin’ Somethin’
-999. Michael Jackson — Working Day and Night
-1000. Michael Jackson — You Can't Win
-1001. Michael Schenker Group — Doctor Doctor
-1002. Michael Sembello — Maniac
-1003. Miguel Bosé — Amante Bandido
-1004. Miguel Ríos — Santa Lucía
-1005. Mike Barbwire & The Blue Ocean Six/Orchestra — Camel Rock
-1006. Mike Barbwire & The Blue Ocean Six/Orchestra — S.O.S
-1007. Mike Oldfield — Ambient Guitars (Tubular Bells, Part Two)
-1008. Mike Oldfield — Bagpipe Guitars (Tubular Bells, Part Two)
-1009. Mike Oldfield — DarkStar
-1010. Mike Oldfield — Harmonics (Tubular Bells, Part Two)
-1011. Mike Oldfield — In Dulci Jubilo
-1012. Mike Oldfield — Incantations Part 3
-1013. Mike Oldfield — Incantations Part 4
-1014. Mike Oldfield — Moonlight Shadow
-1015. Mike Oldfield — Ommadawn
-1016. Mike Oldfield — Peace (Tubular Bells, Part Two)
-1017. Mike Oldfield — Sentinel
-1018. Mike Oldfield — The Sailor’s Hornpipe (Tubular Bells, Part Two)
-1019. Mike Oldfield — To France
-1020. Mike Oldfield — Tubular Bells
-1021. Mike Stern — Chromazone
-1022. Miles Davis — All Blues
-1023. Miles Davis — Blue in Green
-1024. Miles Davis — Freddy Freeloader
-1025. Miles Davis — No Blues
-1026. Miles Davis — So What
-1027. Miles Davis — Tune Up
-1028. Miley Cyrus — Plastic Hearts
-1029. Milo J — A1RE
-1030. Milo J — Daña Elvira
-1031. Milo J — Sincera Te
-1032. Misc Television — The Munsters
-1033. Monkey Island — Opening Theme
-1034. Monty Norman — James Bond Theme
-1035. Moonlight in Vermont — Karl Suessdorf / John M. Blackburn
-1036. Morgan Lewis — How High the Moon
-1037. Morris Albert — Feelings
-1038. Morrissey — Suedehead
-1039. Moses Yoofee Trio — Bond
-1040. Moses Yoofee Trio — Ocean
-1041. Mötley Crüe — Bastard
-1042. Mötley Crüe — Kickstart My Heart
-1043. Mötley Crüe — Sticky Sweet
-1044. Mr. Big — Addicted to That Rush
-1045. Mr. Big — Daddy, Brother, Lover, Little boy
-1046. Mr. Big — To be With You
-1047. Mr. Big — Voodoo Kiss
-1048. Muse — Hysteria
-1049. Muse — Knights Of Cydonia
-1050. Muse — New Born
-1051. Muse — Plug In Baby
-1052. Muse — Reapers
-1053. Muse — Showbiz
-1054. Muse — Time Is Running Out
-1055. Muse — Unintended
-1056. Muse — Uprising
-1057. Nacha Pop — La chica de ayer
-1058. Narcos — Tuyo(Narcos theme)
-1059. Nat King Cole — Ansiedad
-1060. Neil Young — Alabama
-1061. Neil Young — Powderfinger
-1062. Niccolò Paganini — Caprice No. 24
-1063. Niccolò Paganini — Caprice No. 5
-1064. Nil Moliner — Soldadito de Hierro
-1065. Nino Rota — The Godfather Waltz
-1066. Niños Mutantes — Amigo
-1067. Niños Mutantes — Perdido en mi habitación
-1068. Nirvana — Come As You Are
-1069. Nirvana — Heart-Shaped Box
-1070. Nirvana — Lithium
-1071. Nirvana — On A Plain
-1072. Nirvana — Smells Like Teen Spirit
-1073. Nirvana — The Man Who Sold the World
-1074. No Doubt — Don't Speak
-1075. Normandie — White Flag
-1076. Nothing But Thieves — Is Everybody Going Crazy
-1077. Notting Hillbillies — Feel like going home
-1078. O'funkillo — Rulando
-1079. Oasis — Wonderwall
-1080. Ocean Colour Scene — The Riverboat Song
-1081. Otis Redding — (Sittin' On) The Dock of the Bay
-1082. Otis Redding — Fa-Fa-Fa-Fa-Fa (Sad Song)
-1083. Our Mirage — Lost
-1084. Our Mirage — Nightfall
-1085. Ozzy Osbourne — Crazy Train
-1086. Ozzy Osbourne — Goodbye to Romance
-1087. Ozzy Osbourne — Holy for Tonight
-1088. Ozzy Osbourne — Mr. Crowley
-1089. Pablo López — El Patio
-1090. Pat Metheny — Are You Going With Me
-1091. Pat Metheny — Bright Size Life
-1092. Pat Metheny — Phase Dance
-1093. Pata Negra — Yo Me Quedo en Sevilla
-1094. Patti LaBelle — Lady Marmalade
-1095. Patti Smith — Because the Night
-1096. Paul Anka — Put Your Head on My Shoulder
-1097. Paul Simon — You Can Call Me Al
-1098. Paul Young — Everytime You Go Away
-1099. Pearl Jam — Alive
-1100. Pearl Jam — Black
-1101. Pearl Jam — Even Flow
-1102. Pearl Jam — Hold On
-1103. Pearl Jam — I’m Mine
-1104. Pearl Jam — Jeremy
-1105. Pearl Jam — Once
-1106. Pearl Jam — Porch
-1107. Pearl Jam — Rearviewmirror
-1108. Pearl Jam — Red Mosquito
-1109. Pearl Jam — The Fixer
-1110. Pearl Jam — Why Go
-1111. Pearl Jam — Yellow Ledbetter
-1112. Pee Wee Ellis — Blues Mission
-1113. Pee Wee Ellis — The Chicken
-1114. Pereza — Rock ’n Roll Star
-1115. Pet Shop Boys — Domino Dancing
-1116. Pet Shop Boys — Go West
-1117. Pet Shop Boys — It's a Sin
-1118. Peter Frampton — Baby I Love Your Way
-1119. Peter Gabriel — Solsbury Hill
-1120. Phil Collins — En Mi Corazón Vivirás
-1121. Phoenix — Mugur de Fluier
-1122. Phoenix — Rome
-1123. Phoenix — Transylvanya
-1124. Phoenix — Zori de Zi
-1125. Piel Canela — Bobby Capó
-1126. Pink Floyd — Another Brick In The Wall
-1127. Pink Floyd — Breathe
-1128. Pink Floyd — Comfortably Numb
-1129. Pink Floyd — Coming Back to Life
-1130. Pink Floyd — Dogs
-1131. Pink Floyd — Hey You
-1132. Pink Floyd — High Hopes
-1133. Pink Floyd — Is There Anybody Out There
-1134. Pink Floyd — Money
-1135. Pink Floyd — On The Turning Away
-1136. Pink Floyd — Run Like Hell
-1137. Pink Floyd — Shine On You Crazy Diamond
-1138. Pink Floyd — Sorrow
-1139. Pink Floyd — The Great Gig in the Sky
-1140. Pink Floyd — Time
-1141. Pink Floyd — Wish You Were Here
-1142. Pixies — Here Comes Your Man
-1143. Pixies — Hey
-1144. Placebo — Days Before You Came
-1145. Placebo — Every You Every Me
-1146. Placebo — The Bitter End
-1147. Placebo — Twenty Years
-1148. Platero y Tú — El Roce De Tu Cuerpo
-1149. Platero y Tú — Hay Poco Rock And Roll
-1150. Poison — Back to the Rocking Horse
-1151. Poison — Every Rose Has Its Thorn
-1152. Poison — Good Love
-1153. Poison — Life Loves A Tragedy
-1154. Poison — Look But You Can't Touch
-1155. Poison — Love On The Rocks
-1156. Poison — Nothin' But A Good Time
-1157. Poison — Tearin' Down The Walls
-1158. Poison — Your Mama Don't Dance
-1159. Post Malone & Swae Lee — Sunflower
-1160. Prince — Purple Rain
-1161. Psychedelic Porn Crumpets — Another Reincarnation
-1162. Psychedelic Porn Crumpets — Bowling With Tim
-1163. Psychedelic Porn Crumpets — Found God In A Tomato
-1164. Psychedelic Porn Crumpets — Hymn For A Droid
-1165. Psychedelic Porn Crumpets — Manny’s Ready to Roll
-1166. Psychedelic Porn Crumpets — March on for Pax Ramona
-1167. Psychedelic Porn Crumpets — Night Gnomes
-1168. Psychedelic Porn Crumpets — Qwik Maff
-1169. Psychedelic Porn Crumpets — Tally-Ho
-1170. Pxzvc — Bad Idea Ft Shiloh Dynasty
-1171. Queen — 39
-1172. Queen — A Kind of Magic
-1173. Queen — A Winter’s Tale
-1174. Queen — Another One Bites The Dust
-1175. Queen — Bohemian Rhapsody
-1176. Queen — Breakthru
-1177. Queen — Brighton Rock
-1178. Queen — Bring Back That Leroy Brown
-1179. Queen — Death on Two Legs
-1180. Queen — Don’t Stop Me Now
-1181. Queen — Face It Alone
-1182. Queen — Flash
-1183. Queen — Friends will be friends
-1184. Queen — Hammer to Fall
-1185. Queen — I Want It All
-1186. Queen — I Want to Break Free
-1187. Queen — I Was Born to Love You
-1188. Queen — I'm in Love with My Car
-1189. Queen — In the lap of the Gods Revisited
-1190. Queen — Innuendo
-1191. Queen — Killer Queen
-1192. Queen — Lazing on a Sunday Afternoon
-1193. Queen — Lily of the Valley
-1194. Queen — Love of my life
-1195. Queen — Misfire
-1196. Queen — My baby does me
-1197. Queen — Now I’m Here
-1198. Queen — Radio Ga Ga
-1199. Queen — She Makes Me
-1200. Queen — Somebody to Love
-1201. Queen — Spread Your Wings
-1202. Queen — Stone Cold Crazy
-1203. Queen — Sweet Lady
-1204. Queen — Tenement Funster
-1205. Queen — The Invisible Man
-1206. Queen — The Miracle
-1207. Queen — The Show Must Go On
-1208. Queen — These Are the Days of Our Lives
-1209. Queen — Too Much Love Will Kill You
-1210. Queen — Under Pressure
-1211. Queen — Was It All Worth It
-1212. Queen — We Are the Champions
-1213. Queen — We Will Rock You
-1214. Queen — Who Wants to Live Forever
-1215. Queen — You’re My Best Friend
-1216. Queens Of The Stone Age — 3s And 7s
-1217. Queens of the Stone Age — Millionaire
-1218. Queens Of The Stone Age — No One Knows
-1219. Queens of the Stone Age — Regular John
-1220. Quiet Riot — Cum On Feel The Noize
-1221. Quique González — Pequeño Rock & Roll
-1222. R.E.M — Losing My Religion
-1223. Racer X — Heart Of A Lion
-1224. Racer X — Scarified
-1225. Racer X — Technical Difficulties
-1226. Radio Futura — Escuela de Calor
-1227. Radio Futura — Veneno En La Piel
-1228. Radiohead — 15 Steps
-1229. Radiohead — Creep
-1230. Radiohead — Just
-1231. Radiohead — Paranoid Android
-1232. Radiohead — Pyramid Song
-1233. RADWIMPS — Dream Lantern
-1234. RADWIMPS — Your Name.
-1235. Rage Against The Machine — Bulls on Parade
-1236. Rage Against the Machine — Guerrilla Radio
-1237. Rage Against The Machine — Killing In The Name
-1238. Rainbow — A Light in the Black
-1239. Rainbow — Catch The Rainbow
-1240. Rainbow — If You Don’t Like Rock ‘n’ Roll
-1241. Rainbow — Kill The King
-1242. Rainbow — Long Live Rock ’n’ Roll
-1243. Rainbow — Man on the Silver Mountain
-1244. Rainbow — Sensitive To Light
-1245. Rainbow — Since You Been Gone
-1246. Rainbow — Stargazer
-1247. Rainbow — Starstruck
-1248. Rainbow — Temple Of The King
-1249. Ralph Rainger / Leo Robin — Easy Living
-1250. Ram Jam — Black Betty
-1251. Ramin Djawadi — Game of Thrones Theme
-1252. Raphael — Mi Gran Noche
-1253. Rauw Alejandro — Todo de Ti
-1254. Ray Noble — Cherokee
-1255. Reb Beach — Cutting Loose
-1256. Red Healer — Pendulum
-1257. Red Hot Chili Peppers — Apache Rose Peacock
-1258. Red Hot Chili Peppers — Around The World
-1259. Red Hot Chili Peppers — Black Summer
-1260. Red Hot Chili Peppers — Blood Sugar Sex Magik
-1261. Red Hot Chili Peppers — Breaking the Girl
-1262. Red Hot Chili Peppers — By the Way
-1263. Red Hot Chili Peppers — Californication
-1264. Red Hot Chili Peppers — Can’t Stop
-1265. Red Hot Chili Peppers — Dani California
-1266. Red Hot Chili Peppers — Dark Necessities
-1267. Red Hot Chili Peppers — Desecration Smile
-1268. Red Hot Chili Peppers — Funky Monks
-1269. Red Hot Chili Peppers — Get on Top
-1270. Red Hot Chili Peppers — Give It Away
-1271. Red Hot Chili Peppers — Higher Ground
-1272. Red Hot Chili Peppers — I Could Have Lied
-1273. Red Hot Chili Peppers — If You Have to Ask
-1274. Red Hot Chili Peppers — Mellowship Slinky in B Major
-1275. Red Hot Chili Peppers — My Friends
-1276. Red Hot Chili Peppers — My Lovely Man
-1277. Red Hot Chili Peppers — Otherside
-1278. Red Hot Chili Peppers — Parallel Universe
-1279. Red Hot Chili Peppers — Scar Tissue
-1280. Red Hot Chili Peppers — She Looks To Me
-1281. Red Hot Chili Peppers — Sir Psycho Sexy
-1282. Red Hot Chili Peppers — Snow
-1283. Red Hot Chili Peppers — Strip My Mind
-1284. Red Hot Chili Peppers — Suck My Kiss
-1285. Red Hot Chili Peppers — The Power of Equality
-1286. Red Hot Chili Peppers — The Righteous and the Wicked
-1287. Red Hot Chili Peppers — Under the Bridge
-1288. Red Hot Chili Peppers — Wet Sand
-1289. Red Hot Chili Peppers — White Braids & Pillow Chair
-1290. Reef — Naked
-1291. Reincidentes — Vicio
-1292. Revolver — El Dorado
-1293. Revolver — Es lo que es hay lo que hay
-1294. Revolver — Ese viejo Rock’n’Roll
-1295. Rex Orange County — Amazing
-1296. Richard Bishop — Space Prophet Dogon
-1297. Richard Hawley & Hank Marvin — I'm Absolutely Hank Marvin
-1298. Righteous Brothers — Unchained Melody
-1299. Riot — Warrior
-1300. Ritchie Valens — Come On, Let's Go
-1301. Ritchie Valens — La Bamba
-1302. Robben Ford — The Brother
-1303. Robert Palmer — Addicted to Love
-1304. Roberta Flack — Killing Me Softly with His Song
-1305. Ronnie Earl — Mother Angel
-1306. Ronnie James Dio — Stand Up And Shout
-1307. Ronnie James Dio — Straight Through The Heart
-1308. Rory Gallagher — Tattoo’d Lady
-1309. Rory Gallagher — Walk On Hot Coals
-1310. Rosalía — La Perla
-1311. Rosendo — Agradecido
-1312. Rosendo — Flojos de pantalón
-1313. Roy Orbison — Oh, Pretty Woman
-1314. Rupatrupa — Bichito (Carta abierta para Adrián)
-1315. Russell Malone — For toddlers only
-1316. Sabina — La del Pirata cojo
-1317. Sam Brown — Stop!
-1318. Sam Smith — Fire on Fire
-1319. Sam Smith / John Legend — Lay Me Down
-1320. Santana — Angelica Faith
-1321. Santana — Bella
-1322. Santana — Black Magic Woman
-1323. Santana — Corazón Espinado
-1324. Santana — Dom
-1325. Santana — El Farol
-1326. Santana — En Aranjuez Con Tu Amor
-1327. Santana — Europa
-1328. Santana — Evil Ways
-1329. Santana — Full Moon
-1330. Santana — I Love you much too much
-1331. Santana — Into the Night
-1332. Santana — Life Is a Lady / Holiday
-1333. Santana — Love is You
-1334. Santana — Moonflower
-1335. Santana — Oye Como Va
-1336. Santana — Revelations
-1337. Santana — Samba Pa Ti
-1338. Santana — Smooth
-1339. Santana — Song for Devadip
-1340. Santana — Toussaint L’Overture
-1341. Santana — Victory Is Won
-1342. Santana Brothers — Blues Latino
-1343. Santana Brothers — Contigo
-1344. Santana Brothers — Luz Amor y Vida
-1345. Santo & Johnny — Sleepwalk
-1346. Satyricon — K.I.N.G.
-1347. Scorpions — Big City Nights
-1348. Scorpions — Blackout
-1349. Scorpions — Holiday
-1350. Scorpions — No One Like You
-1351. Scorpions — Rock You Like a Hurricane
-1352. Scorpions — Still Loving You
-1353. Scorpions — Wind Of Change
-1354. Screamin’ Jay Hawkins — I Put a Spell on You
-1355. Screaming Trees — Nearly Lost You
-1356. Sean Costello — Can’t Let Go
-1357. Sebadoh — Beauty Of The Ride
-1358. Sebastián Cortés & Roy Borland — Dos X Tres (Acústico)
-1359. Sebastián Yatra — Tacones Rojos
-1360. Sérgio Mendes & Brasil '66 — Mais Que Nada
-1361. Serj Tankian — Empty walls
-1362. Serj Tankian — Harakiri
-1363. Serj Tankian — Sky Is Over
-1364. Serrat — Penélope
-1365. SFDK — Agua Pasá ft. Kaze
-1366. Shakira / Fuerza Regida — El Jefe
-1367. Shawn Mendes — Bad Reputation
-1368. Shinedown — Simple Man
-1369. Shivaree — Goodnight Moon
-1370. Shocking Blue — Venus
-1371. Sia — Snowman
-1372. Sidecars — La Tormenta
-1373. Silk Sonic — Bruno Mars & Anderson .Paak — Blast Off
-1374. Silk Sonic — Bruno Mars & Anderson .Paak — Leave The Door Open
-1375. Silk Sonic — Bruno Mars & Anderson .Paak — Skate
-1376. Silk Sonic — Bruno Mars & Anderson .Paak — Smokin’ Out the Window
-1377. Simon & Garfunkel — Mrs. Robinson
-1378. Simon & Garfunkel — The Sound of Silence
-1379. Simply Red — Stars
-1380. Sinéad O’Connor — Nothing Compares 2 U
-1381. Sínkope — El Carro de la Vida
-1382. Sister Sledge — We Are Family
-1383. Skid Row — 18 And Life
-1384. Skid Row — I Remember You
-1385. Skid Row — Makin’ a Mess
-1386. Slade — Gudbuy T'Jane
-1387. Slade — Let the Good Times Roll / Feel So Fine
-1388. Slade — Man Who Speeks Evil
-1389. Slash — Anastasia
-1390. Slash — By the Sword
-1391. Slash — Good To Be Alive
-1392. Slash — Obsession Confession
-1393. Slash — The Unholy
-1394. Slash feat. Iggy Pop — We’re All Gonna Die
-1395. Slash feat. Myles Kennedy — Back From Cali
-1396. Slipknot — Before I Forget
-1397. Slipknot — Psychosocial
-1398. Slipknot — The Devil in I
-1399. Slut — Pirate Jenny
-1400. Sly & the Family Stone — If you want me to stay
-1401. Smashing Pumpkins — Tonight, Tonight
-1402. Sonny Rollins — Oleo
-1403. Soundgarden — Black Hole Sun
-1404. Soundgarden — Burden In My Hand
-1405. Soundgarden — Fell on Black Days
-1406. Soundgarden — Let Me Drown
-1407. Soundgarden — Never the Machine Forever
-1408. Soundgarden — Outshined
-1409. Soundgarden — Taree
-1410. Soundgarden — The Day I Tried To Live
-1411. Status Quo — Don’t Waste My Time
-1412. Status Quo — Down Down
-1413. Status Quo — Little Lady
-1414. Status Quo — Mystery Song
-1415. Status Quo — Rockin' All Over The World
-1416. Status Quo — What You’re Proposing
-1417. Status Quo — Whatever You Want
-1418. Steely Dan — Everything Must Go
-1419. Steppenwolf — Born To Be Wild
-1420. Steve Miller Band — Serenade from the Stars
-1421. Steve Vai — Answers
-1422. Steve Vai — Crossroads Suite
-1423. Steve Vai — Erotic Nightmares
-1424. Steve Vai — For the Love Of God
-1425. Steve Vai — I Would Love To
-1426. Steve Vai — Liberty
-1427. Steve Vai — Lotus Feet
-1428. Steve Vai — Speed
-1429. Steve Vai — Tender Surrender
-1430. Steve Vai — The Animal
-1431. Steve Vai — The Riddle
-1432. Steve Vai — Viv Woman
-1433. Stevie Ray Vaughan — Cold Shot
-1434. Stevie Ray Vaughan — Dirty Pool
-1435. Stevie Ray Vaughan — I'm Cryin'
-1436. Stevie Ray Vaughan — Lenny
-1437. Stevie Ray Vaughan — Life by the Drop
-1438. Stevie Ray Vaughan — Life Without You
-1439. Stevie Ray Vaughan — Love Me Darlin'
-1440. Stevie Ray Vaughan — Mary Had a Little Lamb
-1441. Stevie Ray Vaughan — Pride And Joy
-1442. Stevie Ray Vaughan — Testify
-1443. Stevie Wonder — Contusion
-1444. Stevie Wonder — For Once In My Life
-1445. Stevie Wonder — Golden Lady
-1446. Stevie Wonder — Have a Talk with God
-1447. Stevie Wonder — Higher Ground
-1448. Stevie Wonder — I Wish
-1449. Stevie Wonder — Isn’t She Lovely
-1450. Stevie Wonder — Knock me off my feet
-1451. Stevie Wonder — Love's in Need of Love Today
-1452. Stevie Wonder — Ordinary Pain
-1453. Stevie Wonder — Overjoyed
-1454. Stevie Wonder — Sir Duke
-1455. Stevie Wonder — Summer soft
-1456. Stevie Wonder — Superstition
-1457. Stevie Wonder — Vintage Ghetto Woman
-1458. Stevie Wonder — You are the sunshine of my life
-1459. Stevie Wonder — You’ve got a bad girl
-1460. Sting — Englishman in New York
-1461. Sting — Seven Days
-1462. Stone Temple Pilots — Interstate Love Song
-1463. Stratovarius — Stratosphere
-1464. Suede — Animal Nitrate
-1465. Suede — Beautiful Ones
-1466. Suede — New Generation
-1467. Suede — So Young
-1468. Suede — We Are The Pigs
-1469. Sum 41 — Hell Song
-1470. Sum 41 — In Too Deep
-1471. Sum 41 — Still Waiting
-1472. Sum 41 — We’re All to Blame
-1473. Supertramp — Give a Little Bit
-1474. Survivor — Eye Of The Tiger
-1475. System of a Down — Aerials
-1476. System of a Down — B.Y.O.B.
-1477. System of a Down — Lonely Day
-1478. System of a Down — Toxicity
-1479. Tarque — Mar de Whisky
-1480. Táta Vega — Miss Celie’s Blues (Sister)
-1481. Tayko & Migliz — Garúa (Sabor a Querer)
-1482. Tears for Fears — Everybody Wants to Rule the World
-1483. Tenacious D — Rize of the Fenix
-1484. Tenacious D — The Metal
-1485. Terry Evans — Dark End of the Street
-1486. Thaurorod — Shadows and Rain
-1487. The Allman Brothers Band — Jessica
-1488. The Allman Brothers Band — Soulshine
-1489. The Allman Brothers Band — The Firing Line
-1490. The Allman Brothers Band — Trouble No More
-1491. The Allman Brothers Band — You Don’t Love Me
-1492. The Animals — House of the Rising Sun
-1493. The Barbwires — La caja del muerto
-1494. The Beach Boys — Surfin’ U.S.A.
-1495. The Beatles — Across the Universe
-1496. The Beatles — Back in the U.S.S.R.
-1497. The Beatles — Blackbird
-1498. The Beatles — Boys
-1499. The Beatles — Drive My Car
-1500. The Beatles — Eleanor Rigby
-1501. The Beatles — Help
-1502. The Beatles — Helter Skelter
-1503. The Beatles — Hey Jude
-1504. The Beatles — Hold your hand
-1505. The Beatles — I Saw Her Standing There
-1506. The Beatles — I'm Only Sleeping
-1507. The Beatles — Let it be
-1508. The Beatles — Maxwell’s Silver Hammer
-1509. The Beatles — Michelle
-1510. The Beatles — Money (That's What I Want)
-1511. The Beatles — Norwegian Wood
-1512. The Beatles — Oh! Darling
-1513. The Beatles — Revolution
-1514. The Beatles — Rock And Roll Music
-1515. The Beatles — Something
-1516. The Beatles — Ticket To Ride
-1517. The Beatles — Twist And Shout
-1518. The Beatles — While My Guitar Gently Weeps
-1519. The Beatles — With a Little Help from My Friends
-1520. The Beatles — Yesterday
-1521. The Beatles — You Can’t Do That
-1522. The Black Crowes — Hard To Handle
-1523. The Black Crowes — Sister Luck
-1524. The Black Keys — Everywhere I Go
-1525. The Black Keys — Gold on the Ceiling
-1526. The Black Keys — Hard Row
-1527. The Black Keys — Have Love Will Travel
-1528. The Black Keys — Hurt like Mine
-1529. The Black Keys — I Got Mine
-1530. The Black Keys — Lonely Boy
-1531. The Black Keys — She’s Long Gone
-1532. The Black Keys — Thickfreakness
-1533. The Black Keys — Tighten Up
-1534. The Black Moiras — Mayo
-1535. The Blues Brothers — Sweet Home Chicago
-1536. The Carpenters — Close to You
-1537. The Cat Empire — The Rhythm
-1538. The Chordettes — Mr. Sandman
-1539. The Clash — I Fought The Law
-1540. The Clash — Should I Stay Or Should I Go
-1541. The Corrs — Only When I Sleep
-1542. The Cranberries — Zombie
-1543. The Crusaders — Street Life
-1544. The Cult — Black Sun
-1545. The Cure — 10:15 Saturday Night
-1546. The Cure — A Forest
-1547. The Cure — A Letter To Elise
-1548. The Cure — A Short Term Effect
-1549. The Cure — A Strange Day
-1550. The Cure — All I Want
-1551. The Cure — At Night
-1552. The Cure — Bananafishbones
-1553. The Cure — Boys Don’t Cry
-1554. The Cure — Close to Me
-1555. The Cure — Cold
-1556. The Cure — Doubt
-1557. The Cure — Dressing Up
-1558. The Cure — Faith
-1559. The Cure — Fire in Cairo
-1560. The Cure — Foxy Lady
-1561. The Cure — Friday I’m in love
-1562. The Cure — From the Edge of the Deep Green Sea
-1563. The Cure — Give Me It
-1564. The Cure — Grinding Halt
-1565. The Cure — Hanging Garden
-1566. The Cure — Hot Hot Hot
-1567. The Cure — How Beautiful You Are
-1568. The Cure — In Your House
-1569. The Cure — Inbetween Days
-1570. The Cure — It’s Not You
-1571. The Cure — Jumping Someone Else’s Train
-1572. The Cure — Just Like Heaven
-1573. The Cure — Just One Kiss
-1574. The Cure — Killing An Arab
-1575. The Cure — Let’s Go to Bed
-1576. The Cure — Like Cockatoos
-1577. The Cure — Lullaby
-1578. The Cure — M
-1579. The Cure — Object
-1580. The Cure — One More Time
-1581. The Cure — Other Voices
-1582. The Cure — Plastic Passion
-1583. The Cure — Play For Today
-1584. The Cure — Pornography
-1585. The Cure — Primary
-1586. The Cure — Push
-1587. The Cure — Secrets
-1588. The Cure — Shake Dog Shake
-1589. The Cure — Siamese Twins
-1590. The Cure — Six Different Ways
-1591. The Cure — So What
-1592. The Cure — Speak My Language
-1593. The Cure — The Birdmad Girl
-1594. The Cure — The Blood
-1595. The Cure — The Caterpillar
-1596. The Cure — The Dream
-1597. The Cure — The Drowning Man
-1598. The Cure — The Empty World
-1599. The Cure — The Figurehead
-1600. The Cure — The Snakepit
-1601. The Cure — The Top
-1602. The Cure — The Upstairs Room
-1603. The Cure — The Walk
-1604. The Cure — This Is a Lie
-1605. The Cure — Wailing Wall
-1606. The Cure — Why Can’t I Be You?
-1607. The Dandy Warhols — Bohemian Like You
-1608. The Darkness — Friday Night
-1609. The Darkness — I Believe In A Thing Called Love
-1610. The Darkness — One Way Ticket
-1611. The Dave Brubeck Quartet — Take Five
-1612. The Dead Weather — Be Still
-1613. The Dead Weather — Blue Blood Blues
-1614. The Dead Weather — I Feel Love (Every Million Miles)
-1615. The Doobie Brothers — Listen To The Music
-1616. The Doobie Brothers — Long Train Running
-1617. The Doobie Brothers — What A Fool Believes
-1618. The Doors — Break On Through (To the Other Side)
-1619. The Doors — Light My Fire
-1620. The Eagles — Hotel California
-1621. The Eagles — New Kid in Town
-1622. The Hives — Hate to Say I Told You So
-1623. The Human League — Don’t You Want Me
-1624. The Jackson 5 — Blame on the Boogie
-1625. The Jackson 5 — I Want You Back
-1626. The Killers — Human
-1627. The Knack — My Sharona
-1628. The Lively Ones — Surf Rider
-1629. The Living Tombstone — I Got No Time
-1630. The Living Tombstone — Me and the Boys
-1631. The Living Tombstone feat. OR3O — Basics in Behavior
-1632. The Living Tombstone feat. OR3O — Basics in Behaviour
-1633. The Mamas & The Papas — California Dreamin'
-1634. The Marvelettes — Please Mr. Postman
-1635. The Moody Blues — Nights In White Satin
-1636. The Offspring — Pretty Fly for a White Guy
-1637. The Platters — Only You (And You Alone)
-1638. The Platters — The Great Pretender
-1639. The Police — Every Breath You Take
-1640. The Police — King Of Pain
-1641. The Police — Message In A Bottle
-1642. The Police — Roxanne
-1643. The Police — So Lonely
-1644. The Police — Walking on the Moon
-1645. The Police — Wrap Around Your Fingers
-1646. The Pretenders — Don’t Get Me Wrong
-1647. The Ramones — Poison Heart
-1648. The Rolling Stones — Brown Sugar
-1649. The Rolling Stones — Gimme Shelter
-1650. The Rolling Stones — Honky Tonk Woman
-1651. The Rolling Stones — It's Only Rock 'n' Roll
-1652. The Rolling Stones — Jumpin’ Jack Flash
-1653. The Rolling Stones — Rip This Joint
-1654. The Rolling Stones — Start Me Up
-1655. The Rolling Stones — Stop Breaking Down
-1656. The Shadows — Apache
-1657. The Shadows — Atlantis
-1658. The Shadows — FBI
-1659. The Shadows — Man Of Mystery
-1660. The Shadows — Peace Pipe
-1661. The Shadows — Shindig
-1662. The Shadows — Theme For Young Lovers
-1663. The Smiths — Barbarism Begins At Home
-1664. The Smiths — Bigmouth Strikes Again
-1665. The Smiths — Cemetry Gates
-1666. The Smiths — Frankly, Mr. Shankly
-1667. The Smiths — Heaven Knows I’m Miserable Now
-1668. The Smiths — I Know It’s Over
-1669. The Smiths — I Want The One I Can’t Have
-1670. The Smiths — Meat Is Murder
-1671. The Smiths — Nowhere Fast
-1672. The Smiths — Paint a vulgar picture
-1673. The Smiths — Panic
-1674. The Smiths — Reel Around The Fountain
-1675. The Smiths — Stop Me If You Think You’ve Heard This One Before
-1676. The Smiths — That Joke Isn’t Funny Anymore
-1677. The Smiths — The Headmaster Ritual
-1678. The Smiths — There Is a Light That Never Goes Out
-1679. The Smiths — Well I Wonder
-1680. The Stone Roses — This Is The One
-1681. The Stooges — Down on the Street
-1682. The Stooges — I Wanna Be Your Dog
-1683. The Strokes — 12:51
-1684. The Strokes — Reptilia
-1685. The Strokes — The End Has No End
-1686. The Strokes — Under Cover of Darkness
-1687. The Strokes — You Only Live Once
-1688. The Surfaris — Wipe Out
-1689. The Surfmen — The Ghost Hop
-1690. The Troggs — Wild Thing
-1691. The Ventures — Hawaii Five-O
-1692. The Ventures — Pipeline
-1693. The Ventures — Walk Don’t Run
-1694. The Weeknd — Blinding Lights
-1695. The Weeknd — Save Your Tears
-1696. The Weeknd — The Hills
-1697. The White Buffalo — I Got You
-1698. The White Buffalo & The Forest Rangers — Come Join the Murder
-1699. The White Stripes — Ball And Biscuit
-1700. The White Stripes — Black Math
-1701. The White Stripes — Seven Nation Army
-1702. The White Stripes — The Dead Leaves And The Dirty Ground
-1703. The White Stripes — The Hardest Button To Button
-1704. The Who — Baba O’Riley
-1705. Thelonious Monk — ’Round Midnight
-1706. Thelonious Monk — Blue Monk
-1707. These Foolish Things — These Foolish Things (Remind Me of You)
-1708. Thin Lizzy — Dancing in the moonlight
-1709. Thin Lizzy — The Rocker
-1710. Tierra Santa — Cancion del Pirata
-1711. Tina Turner — Disco Inferno
-1712. Tina Turner — Private Dancer
-1713. Tino Casal — Eloise
-1714. Tom Petty — Free Fallin'
-1715. Tony Joe White — Tunica Motel
-1716. Tool — Lateralus
-1717. Tool — Parabola
-1718. Toto — Stop Loving You
-1719. Tough Talk — The Jazz Crusaders
-1720. Tradicional ucraniana — Carol of the Bells
-1721. Travis Birds — Coyotes
-1722. Triana — Abre la Puerta
-1723. Triana — En el Lago
-1724. Triana — Quiero contarte
-1725. Triana — Tu frialdad
-1726. Triana — Una historia
-1727. Ty Segall — Feel
-1728. Ty Segall — The Singer
-1729. U2 — 40
-1730. U2 — A Day Without Me
-1731. U2 — A Sort Of Homecoming
-1732. U2 — Bad
-1733. U2 — Drowning Man
-1734. U2 — Electric Co
-1735. U2 — Elvis Presley and America
-1736. U2 — Even Better Than The Real Thing
-1737. U2 — Exit
-1738. U2 — Fire
-1739. U2 — Gloria
-1740. U2 — I Still Haven’t Found What I’m Looking For
-1741. U2 — I Threw a Brick Through a Window
-1742. U2 — I Will Follow
-1743. U2 — I’ll Go Crazy If I Don’t Go Crazy Tonight
-1744. U2 — If God Will Send His Angels
-1745. U2 — In God's Country
-1746. U2 — Indian Summer Sky
-1747. U2 — Is That All
-1748. U2 — Like a Song
-1749. U2 — Mothers of the Disappeared
-1750. U2 — Mysterious Ways
-1751. U2 — New Years Day
-1752. U2 — One Tree Hill
-1753. U2 — Pride (In the Name of Love)
-1754. U2 — Promenade
-1755. U2 — Red Hill Mining Town
-1756. U2 — Red Light
-1757. U2 — Rejoice
-1758. U2 — Running To Stand Still
-1759. U2 — Scarlet
-1760. U2 — Seconds
-1761. U2 — Shadows and Tall Trees
-1762. U2 — Stranger In A Strange Land
-1763. U2 — Sunday Bloody Sunday
-1764. U2 — Surrender
-1765. U2 — The Ocean
-1766. U2 — The Refugee
-1767. U2 — The Unforgettable Fire
-1768. U2 — Trip Through Your Wires
-1769. U2 — Two Hearts Beat as One
-1770. U2 — Ultraviolet (Light My Way)
-1771. U2 — Until The End Of The World
-1772. U2 — Vertigo
-1773. U2 — Where the streets have no name
-1774. U2 — Wire
-1775. U2 — With a Shout
-1776. U2 — With Or Without You
-1777. Undertale — Asgore
-1778. Undertale — Finale
-1779. Undertale — Heartache
-1780. Undertale — Megalovania
-1781. Undertale — Save The World
-1782. Usher & Alicia Keys — My Boo
-1783. Velvet Underground — There She Goes
-1784. Vetusta Morla — Al respirar
-1785. Vetusta Morla — Autocrítica
-1786. Vetusta Morla — Baldosas Amarillas
-1787. Vetusta Morla — Boca en Tierra
-1788. Vetusta Morla — Cenas Ajenas
-1789. Vetusta Morla — El Hombre del Saco
-1790. Vetusta Morla — En el Río
-1791. Vetusta Morla — Escudo Humano
-1792. Vetusta Morla — Lo Que Te Hace Grande
-1793. Vetusta Morla — Los Días Raros
-1794. Vetusta Morla — Maldita Dulzura
-1795. Vetusta Morla — Mapas
-1796. Vetusta Morla — Mismo Sitio, Distinto Lugar
-1797. Viagra Boys — Punk Rock Loser
-1798. Viva Suecia — A Dónde Ir
-1799. Vulfpeck — 1 For 1 Dimaggio
-1800. Vulfpeck — Animal Spirits
-1801. Vulfpeck — Aunt Leslie
-1802. Vulfpeck — Cory Wong
-1803. Vulfpeck — Simple Step
-1804. W.A.S.P. — Sleeping (In the Fire)
-1805. Warlock — All We Are
-1806. We Are the World — We Are the World
-1807. Weezer — My Name Is Jonas
-1808. Wes Montgomery — West Coast Blues
-1809. White Lion — Blue Monday
-1810. White Lion — It’s Over
-1811. White Lion — Out with the Boys
-1812. Whitesnake — Bad Boys
-1813. Whitesnake — Cheap An’ Nasty
-1814. Whitesnake — Crying in the Rain
-1815. Whitesnake — Fool For Your Loving
-1816. Whitesnake — Guilty of Love
-1817. Whitesnake — Here I Go Again
-1818. Whitesnake — Is This Love
-1819. Whitesnake — Judgement Day
-1820. Whitesnake — Kittens Got Claws
-1821. Whitesnake — Now You’re Gone
-1822. Whitesnake — Sailing Ships
-1823. Whitesnake — Slip Of The Tongue
-1824. Whitesnake — Slow Poke Music
-1825. Whitesnake — Sweet Talker
-1826. Whitesnake — The Deeper the Love
-1827. Whitesnake — Wings Of The Storm
-1828. Wilbur de Paris — In a Persian Market
-1829. Winger — Battle Stations
-1830. Winger — Seventeen
-1831. Wolfmother — Joker And The Thief
-1832. Woody Pines — Junco Partner
-1833. Yeah Yeah Yeahs — Black Tongue
-1834. Yeah Yeah Yeahs — Date With The Night
-1835. Yes — Heart Of The Sunrise
-1836. Yngwie Malmsteen — As Above So Below
-1837. Yngwie Malmsteen — Brothers
-1838. Yngwie Malmsteen — Evil Eye
-1839. Yngwie Malmsteen — Far Beyond The Sun
-1840. Yngwie Malmsteen — Presto Vivace in #C Minor
-1841. Yngwie Malmsteen — Queen in Love
-1842. Yngwie Malmsteen — Trilogy Suite - Opus
-1843. Yoko Shimomura — Somnus (Final Fantasy XV Main Menu Theme)
-1844. Zemeth — Lunatic and Lolita
-1845. Zemeth — Valentine Libido
-1846. ZZ Top — La Grange
-1847. ZZ Top — Tush
+091 — La Calle del Viento
+24kGoldn feat. Iann Dior — Mood
+A Perfect Circle — Pet
+A Perfect Circle — The Package
+a-ha — Take On Me
+Abba — Mamma Mia
+AC/DC — Back In Black
+AC/DC — Dirty Deeds Done Dirt Cheap
+AC/DC — For Those About To Rock (We Salute You)
+AC/DC — Go Down
+AC/DC — Hard As A Rock
+AC/DC — Hell Ain’t A Bad Place To Be
+AC/DC — Hells Bells
+AC/DC — Highway to Hell
+AC/DC — If You Want Blood You’ve Got It
+AC/DC — It’s A Long Way To The Top
+AC/DC — Jailbreak
+AC/DC — Live Wire
+AC/DC — Riff Raff
+AC/DC — Rock ‘n’ Roll Singer
+AC/DC — Shoot To Thrill
+AC/DC — Sin City
+AC/DC — Stiff Upper Lip
+AC/DC — The Jack
+AC/DC — Thunderstruck
+AC/DC — TNT
+AC/DC — Whole Lotta Rosie
+AC/DC — You Shook Me All Night Long
+Accept — Blood of the Nations
+Accept — Shadow Soldiers
+Aerosmith — Cryin'
+Aerosmith — Dream On
+Aerosmith — Dude (Looks Like a Lady)
+Aerosmith — I Don’t Want To Miss A Thing
+Aerosmith — Mama Kin
+Aerosmith — Walk This Way
+Agustín Barrios — La Catedral
+Airbourne — Runnin’ Wild
+Aitana — Formentera
+Al Green — Let’s Stay Together
+Al Jarreau — Moonlighting Theme
+Alan Parsons Project — Eye in the Sky
+Alan Parsons Project — The Turn Of A Friendly Car
+Alanis Morissette — Ironic
+Alannah Myles — Black Velvet
+Alaska y Dinarama — A quién le importa
+Alaska y Dinarama — Ni Tú Ni Nadie
+Alaska y los Pegamoides — Bailando
+Alcatrazz — Jet To Jet
+Alejandro Sanz — Viviendo Deprisa
+Alice Cooper — Elected
+Alice Cooper — Poison
+Alice in Chains — Man in the Box
+Alice in Chains — We Die Young
+Alicia Keys — No One
+Alicia Keys — Superwoman
+Alien Ant Farm — Smooth Criminal
+All That Remains — Two Weeks
+Allen Toussaint — Happiness
+Amaral — Días de Verano
+Amaranthe — Burn With Me
+America — Sister Golden Hair
+Ana Mena — Musica ligera
+Andy Timmons — Electric Gypsy
+Andy Williams — Days of Wine and Roses
+Angine de Poitrine — Fabienk
+Angine de Poitrine — Mata Zyklek
+Angine de Poitrine — Sarniezz
+Angine de Poitrine — Sherpa
+Animals as Leaders — Tempting Time
+Anouk — Nobody’s Wife
+Antonio Carlos Jobim — Águas de Março
+Antonio Carlos Jobim — Corcovado
+Antônio Carlos Jobim — Desafinado
+Antonio Carlos Jobim — How Insensitive
+Antônio Carlos Jobim — Triste
+Antonio Vega — El Sitio de mi Recreo
+Arch Enemy — War Eternal
+Arctic Monkeys — 505
+Arctic Monkeys — Crying Lightning
+Arctic Monkeys — I Bet You Look Good on the Dancefloor
+Arde Bogotá — Cariño
+Arde Bogotá — Exoplaneta
+Arde Bogotá — Los Perros
+Arde Bogotá — Millenial
+Arde Bogotá — Tan Alto Como Tus Dudas
+Arde Bogotá — Virtud y Castigo
+Asking Alexandria — Into The Fire
+Atom Eyes — Blue Into Gold
+Audioslave — Getaway Car
+Audioslave — Like A Stone
+AULEC — Entrada provisional adicional
+Australian Blonde — Chup Chup
+Avenged Sevenfold — Afterlife
+Avenged Sevenfold — Bat Country
+Avenged Sevenfold — Beast and the Harlot
+Avenged Sevenfold — Buried Alive
+Avenged Sevenfold — Hail To The King
+Avenged Sevenfold — Roman Sky
+Avenged Sevenfold — Scream
+Avenged Sevenfold — Welcome to the Family
+B.B. King — Darling you know i love you
+B.B. King — I’m moving on
+B.B. King — Sweet Sixteen
+B.B. King — The Thrill Is Gone
+B.B. King — There must be a better world somewhere
+Bad Company — Can’t Get Enough
+Barney Kessel — Swedish Pastry
+Barricada — No Hay Tregua
+Beastie Boys — You Gotta Fight for Your Right to Party
+Bee Gees — How deep is your love
+Bee Gees — More than a Woman
+Bee Gees — Night Fever
+Bee Gees — Stayin' Alive
+Bee Gees — You Should Be Dancing
+Bela Fleck & The Flecktones — Lover’s leap
+Bela Fleck & The Flecktones — That Old Thing
+Belako — Track Sei
+Ben E. King — Stand by Me
+Benson Boone — Beautiful Things
+Biffy Clyro — Booooom, Blast & Ruin
+Biffy Clyro — Bubbles
+Biffy Clyro — Cloud of Stink
+Biffy Clyro — God & Satan
+Biffy Clyro — Many Of Horror
+Biffy Clyro — Mountains
+Biffy Clyro — Shock Shock
+Big Joe Turner — Flip, Flop And Fly
+Big Soul — Hippy Hippy Shake
+Bill Withers — Ain’t No Sunshine
+Billie Eilish — Bad Guy
+Billie Eilish — idontwannabeyouanymore
+Billy Talent — Crooked minds
+Billy Talent — Dead Silence
+Billy Talent — Devil in a Midnight Mass
+Billy Talent — Navy Song
+Billy Talent — Show me the way
+Billy Talent — Surprise surprise
+Billy Talent — Surrender
+Billy Talent — Viking Death March
+Black Country Communion — One Last Soul
+Black Orpheus — Black Orpheus
+Black Sabbath — A National Acrobat
+Black Sabbath — Children Of The Grave
+Black Sabbath — Electric Funeral
+Black Sabbath — Fairies Wear Boots
+Black Sabbath — Heaven and Hell
+Black Sabbath — Iron Man
+Black Sabbath — Killing Yourself To Live
+Black Sabbath — Paranoid
+Black Sabbath — Sabbath Bloody Sabbath
+Black Sabbath — Sabbra Cadabra
+Black Sabbath — Symptom Of The Universe
+Black Sabbath — War Pigs
+Black Veil Brides — The Vengeance
+Blackberry Smoke — All Over the Road
+Blackberry Smoke — One Horse Town
+Blackberry Smoke — You Hear Georgia
+Blind Melon — 2X4
+Blind Melon — Soak the Sin
+Blur — Song 2
+Bob Dylan — Don't Think Twice, It's All Right
+Bob Dylan — Like a Rolling Stone
+Bob Marley — Exodus
+Bob Marley — Get Up, Stand Up
+Bob Marley — Jamming
+Bob Marley — Small Axe
+Bob Marley — Stir It Up
+Bob Seger — Old Time Rock and Roll
+Bobby Caldwell — What You Won't Do for Love
+Bon Jovi — Always
+Bon Jovi — Bed Of Roses
+Bon Jovi — Born to Be My Baby
+Bon Jovi — In These Arms
+Bon Jovi — It’s My Life
+Bon Jovi — Livin’ on a Prayer
+Bon Jovi — Never Say Goodbye
+Bon Jovi — Runaway
+Bon Jovi — Wanted Dead Or Alive
+Bon Jovi — You Give Love a Bad Name
+Bonnie Tyler — It's a Heartache
+Boston — Don’t Look Back
+Boston — More Than A Feeling
+Boston — Peace Of Mind
+Boston — Rock and Roll Band
+Brannlop — El lugar de los Sueños
+Brannlop — Todo para el Pueblo
+Brave (OST) — Volaré°°
+Breaking Benjamin — The Diary of Jane
+Brian May — Driven By You
+Brian May — Last Horizon
+Bruce Springsteen — Brilliant Disguise
+Bruce Springsteen — Dancing In The Dark
+Bruce Springsteen — Radio Nowhere
+Bruce Springsteen — Sad Eyes
+Bruce Springsteen — The River
+Bruce Springsteen — Tougher Than the Rest
+Bruce Springsteen — Waitin’ on a Sunny Day
+Bruno Mars — I Just Might
+Bruno Mars — Locked Out Of Heaven
+Bruno Mars & Lady ga-ga — Die with a Smile
+Bryan Adams — All for Love
+Bryan Adams — Heaven
+Bryan Adams — Summer Of ’69
+Burt Bacharach — Raindrops Keep Fallin’ on My Head
+Bush — Glycerine
+CA7RIEL & Paco Amoroso — DUMBAI
+CA7RIEL & Paco Amoroso — EL ÚNICO
+Caccini — Ave Maria
+Cacophony — Concerto
+Camel — Echoes
+Camel — Lady Fantasy Jam
+Camel — Missing
+Camel — Nimrodel
+Camel — Pressure Points
+Camel — Rhayader Alone
+Camel — Rhayader Goes to Town
+Camel — Sasquatch
+Camel — Snow Goose
+Camel — Stationary traveller
+Cat Stevens — Peace train
+Cat Stevens — Wild World
+Chance Peña — Collapse
+Chance Peña — Song From Yesterday
+Chance Peña — The Mountain Is You
+Chance Peña — The Voyager
+Charles Mingus — Jelly Roll
+Charlie Parker — Anthropology
+Charlie Parker — Blues for Alice
+Charlie Parker — Crazeology
+Charlie Parker — Donna Lee
+Charlie Parker — Steeplechase
+Cher — Strong Enough
+Chet Baker — Everything happens to me
+Chet Baker — My Funny Valentine
+Chevelle — The Red
+Chic — Freak Out
+Chic — Good Times
+Chicago — 25 or 6 to 4
+Chick Corea — Spain
+Chick Corea — Steps
+Children of Bodom — Downfall
+Children of Bodom — Silent Night, Bodom Night
+Chris Isaak — Wicked Game
+Christone Kingfish — My bad
+Chuck Berry — Johnny B. Goode
+Claire Fisher — Gaviota
+Cocodrile Dundee — Opening titles
+Cold War Kids — Hang Me Up to Dry
+Coldplay — Adventure of a lifetime
+Coldplay — Clocks
+Coldplay — In My Place
+Coldplay — Yellow
+Cole Porter — All of You
+Cole Porter — Easy to Love
+Collective Soul — Heavy
+Conan Gray — Heather
+Connie Francis — Who’s Sorry Now?
+Counting Crows — Mr. Jones
+Cream — Sunshine Of Your Love
+Cream — White Room
+Creedence Clearwater Revival — Bad Moon Rising
+Creedence Clearwater Revival — Born on the Bayou
+Creedence Clearwater Revival — Fortunate Son
+Creedence Clearwater Revival — Good Golly Miss Molly
+Creedence Clearwater Revival — Green River
+Creedence Clearwater Revival — Have you ever seen the rain
+Creedence Clearwater Revival — Molina
+Creedence Clearwater Revival — Proud Mary
+Crowded House — Don’t Dream It’s Over
+Cyndi Lauper — Girls Just Want To Have Fun
+Cyndi Lauper — Time After Time
+Daft Punk — Get Lucky
+Dan Ar Braz — Belong
+Dan Ar Braz — Broken Prayer
+Dan Ar Braz — Duchesse
+Dan Ar Braz — Orgie Nocturne
+Dan Ar Braz — Rock Around the Loc’h
+Dani Fernandez — Dile a los demás
+Dani Fernandez — Grace
+Dani Fernandez — Plan fatal
+Dani Martín — Cero
+Daniel Sabater — Como quieres que me enfade
+Danza Invisible — Sabor de Amor
+Danzig — Mother
+David Bowie — Absolute Beginners
+David Bowie — Changes
+David Bowie — China Girl
+David Bowie — Fame
+David Bowie — Heroes
+David Bowie — Lady Stardust
+David Bowie — Life on Mars?
+David Bowie — Queen Bitch
+David Bowie — Rebel Rebel
+David Bowie — Space Oddity
+David Bowie — Starman
+David Bowie — Suffragette City
+David Bowie — Thursday's Child
+David Bowie — Ziggy Stardust
+David Lee Roth — 40 Below
+David Lee Roth — A Lil' Ain't Enough
+David Lee Roth — Big Trouble
+David Lee Roth — Damn Good
+David Lee Roth — Drop in the Bucket
+David Lee Roth — Elephant Gun
+David Lee Roth — Goin’ Crazy
+David Lee Roth — Hina
+David Lee Roth — Hot dog and a Shake
+David Lee Roth — It’s Showtime
+David Lee Roth — Just Like Paradise
+David Lee Roth — Knucklebones
+David Lee Roth — Lady Luck
+David Lee Roth — Last Call
+David Lee Roth — Perfect Timing
+David Lee Roth — Sensible Shoes
+David Lee Roth — Shyboy
+David Lee Roth — Skyscraper
+David Lee Roth — The Bottom line
+David Lee Roth — The Dogtown Shuffle
+David Lee Roth — Two Fools a Minute
+David Lee Roth — Yankee Rose
+Debussy — Arabesque
+Deep Purple — Black Night
+Deep Purple — Bloodsucker
+Deep Purple — Burn
+Deep Purple — Fireball
+Deep Purple — Highway Star
+Deep Purple — Hold On
+Deep Purple — Jam Stew
+Deep Purple — Knocking at Your Back Door
+Deep Purple — Lady Double Dealer
+Deep Purple — Lazy
+Deep Purple — Maybe I’m a Leo
+Deep Purple — Mistreated
+Deep Purple — Painted Horse
+Deep Purple — Pictures Of Home
+Deep Purple — Smoke On The Water
+Deep Purple — Soldier Of Fortune
+Deep Purple — Space Truckin
+Deep Purple — Wring That Neck
+Def Leppard — Hysteria
+Def Leppard — Love Bites
+Delbert McClinton — Going Back to Louisiana
+DELTARUNE — Attack of the Killer Queen
+DELTARUNE — Hammer of Justice
+DELTARUNE — Rude Buster
+Depeche Mode — Enjoy The Silence
+Depeche Mode — Personal Jesus
+Dick Dale — Misirlou
+Dinosaur Jr — Feel The Pain
+Dio — Holy Diver
+Dio — Rainbow In The Dark
+Dionne Warwick — Alfie
+Dire Straits — Brothers In Arms
+Dire Straits — Down To The Waterline
+Dire Straits — Lady Writer
+Dire Straits — Love Over Gold
+Dire Straits — Money For Nothing
+Dire Straits — Once Upon a Time In the West
+Dire Straits — Private Investigations
+Dire Straits — Romeo and Juliet
+Dire Straits — Six Blade Knife
+Dire Straits — So far away
+Dire Straits — Solid Rock
+Dire Straits — Sultans of Swing
+Dire Straits — Telegraph Road
+Dire Straits — Tunnel Of Love
+Dire Straits — Two Young Lovers
+Dire Straits — Walk Of Life
+Dire Straits — Water Of Love
+Dire Straits — Where Do You Think You’re Going
+Dire Straits — Why Worry
+Dizzy Gillespie — A Night in Tunisia
+Django Reinhardt — Minor Swing
+DMX — X Gon' Give It to Ya
+Doja Cat — Say So
+Doja Cat feat. SZA — Kiss Me More
+Doja Cat, The Weeknd — You Right
+Domenico Modugno — Volare
+Donna Summer — Bad Girls
+Donna Summer — Hot Stuff
+Donna Summer — She works hard for the money
+Dooley Wilson — As Time Goes By
+Doris Day — Dream a Little Dream of Me
+Dream Theater — Take The Time
+Dream Theater — The Best Of Times
+Dream Theater — The Spirit Carries On
+Dream Theater — Under A Glass Moon
+Dua Lipa — Don’t Start Now
+Dua Lipa — Physical
+Duffy — Warwick Avenue
+Duke Ellington — Caravan
+Duke Ellington — Cotton Tail
+Duke Ellington — Creole Love Call
+Duke Ellington — Don't Get Around Much Anymore
+Duncan Dhu — Una Calle de París
+Duncan Laurence — Arcade
+Ed Sheeran — Thinking Out Loud
+Eddie Cochran — Summertime Blues
+Eddie Harris — Cold Duck Time
+Eddie Holman — I Surrender
+eden ahbez — Nature Boy
+Efecto Mariposa — No me crees
+Efecto Mariposa — Por quererte
+El Canto del Loco — Contigo
+El Canto del Loco — Insoportable
+El Canto del Loco — Nada volverá a ser como antes
+El Canto del Loco — Peter Pan
+El Gran — Dime Si Tú Quieres
+El Gran — Entre Playas & Palmeras
+El Gran — Funky Flow
+El Gran — My Love
+El Kanka — Para Quedarte
+El Kanka — Querría
+El libro de la Selva — Quiero ser como tu
+Elder — Omens
+Elder — Through Zero
+Ella Fitzgerald — One for My Baby
+Elton John — Saturday Night’s Alright (For Fighting)
+Elvis Presley — A Little Less Conversation
+Elvis Presley — Always on my mind
+Elvis Presley — Burning Love
+Elvis Presley — Can't Help Falling in Love
+Elvis Presley — Heartbreak Hotel
+Elvis Presley — Hound Dog
+Elvis Presley — Jailhouse Rock
+Elvis Presley — One Night
+Elvis Presley — Return to Sender
+Elvis Presley — Suspicious Minds
+Emerson, Lake & Palmer — The Great Gates Of Kiev
+Emerson, Lake & Palmer — The Sage
+Eric Carmen — All by Myself
+Eric Clapton — Can’t find my way home
+Eric Clapton — Change The World
+Eric Clapton — Cocaine
+Eric Clapton — Crossroads
+Eric Clapton — I Shot the Sheriff
+Eric Clapton — I'm Tore Down
+Eric Clapton — Layla
+Eric Clapton — Mean Old World
+Eric Clapton — Tears in Heaven
+Eric Clapton — Wonderful Tonight
+Eric Johnson — Cliffs of Dover
+Eric Johnson — Manhattan
+Erik Satie — Gymnopédie No1
+Etta James — At Last
+Etta James — Stormy Weather
+Europe — Carrie
+Europe — Superstitious
+Europe — The Final Countdown
+Evanescence — Bring Me To Life
+Evanescence — Going Under
+Exodus — Metal Command
+Extreme — He-Man Woman Hater
+Extreme — Hole Hearted
+Extreme — Lil Jack Horny
+Extremoduro — Ama Ama y ensancha el Alma
+Extremoduro — Buscando una Luna
+Extremoduro — Decidí
+Extremoduro — Jesucristo García
+Extremoduro — Necesito droga y amor
+Extremoduro — Prometeo
+Extremoduro — Si Te Vas
+Extremoduro — So Payaso
+Extremoduro — Sucede
+Faith No More — Easy
+Fito y Fitipaldis — 214 Sullivan Street
+Fito y Fitipaldis — Acabo de llegar
+Fito y Fitipaldis — Antes De Que Cuente Diez
+Fito y Fitipaldis — Como Pollo Sin Cabeza
+Fito y Fitipaldis — El monte de los aullidos
+Fito y Fitipaldis — La Casa Por El Tejado
+Fito y Fitipaldis — La cuisine de Bernard
+Fito y Fitipaldis — Las nubes de tu pelo
+Fito y Fitipaldis — Me Equivocaría Otra Vez
+Fito y Fitipaldis — Mentira y verdad
+Fito y Fitipalpis — Nada de Nada
+Fito y Fitipaldis — Pájaros disecados
+Fito y Fitipaldis — Por la boca vive el pez
+Fito y Fitipaldis — Qué necesario es el Rock & Roll
+Fito y Fitipaldis — Quiero beber hasta perder el control
+Fito y Fitipaldis — Quiero Ser Una Estrella
+Fito y Fitipaldis — Soldadito Marinero
+Fito y Fitipaldis — Viene y va
+Fito y Fitipaldis — Whisky Barato
+Five Nights at Freddy’s — Foxy’s Song
+Five Nights at Freddy’s — Sister Location Song
+Five Nights at Freddy’s — You Can't Hide
+Fleet Foxes — Oliver James
+Fleetwood Mac — Never Going Back Again
+Foo Fighters — Everlong
+Foo Fighters — I’ll Stick Around
+Foo Fighters — Under You
+Foo Fighters — Walk
+Foreigner — I Want To Know What Love Is
+Frank Sinatra — All of Me
+Frank Sinatra — Fly Me to the Moon
+Frank Sinatra — My Way
+Frank Sinatra — That’s Life
+Frank Zappa — Fembot in a Wet T-Shirt
+Frank Zappa — The Black Page #1
+Frankie Valli — Can’t Take My Eyes Off You
+Franz Ferdinand — Right Action
+Franz Ferdinand — Take Me Out
+Free — All Right Now
+Free — Fire and water
+Free — I’ll be Creepin’
+Free — Mr. Big
+Free — The stealer
+Funkadelic — Maggot Brain
+Fuzz — Fuzz’s Fourth Dream
+Fuzz — What's in My Head?
+Gary Burton — Walter L.
+Gary Burton Quartet — Country Roads
+Gary Moore — All Your Love
+Gary Moore — As the Years Go Passing By
+Gary Moore — Midnight Blues
+Gary Moore — Parisienne Walkways
+Gary Moore — Still Got The Blues
+Gary Moore — The Loner
+Gary Moore — Too tired
+Gary Moore — Walking By Myself
+Genesis — Afterglow
+Genesis — Firth Of Fifth
+Genesis — Follow You Follow Me
+Genesis — Squonk
+Genesis — Supper’s Ready
+Genesis — The Carpet Crawlers
+George Benson — Beyond the Sea
+George Benson — On Broadway
+George Benson — This Masquerade
+George Gershwin — A Foggy Day
+George Gershwin — I Got Rhythm
+Ghost — Cirice
+Ghost — Dance Macabre
+Ghost — Griftwood
+Ghost — Guiding Lights
+Ghost — I’m A Marionette
+Ghost — Lachryma
+Ghost — Marks Of The Evil One
+Ghost — Peacefield
+Ghost — Satan Prayer
+Ghost — Satanized
+Ghost — Spillways
+Ghost — Watcher In The Sky
+Gipsy Kings — Bamboleo
+Gipsy Kings — Djobi Djoba
+Gipsy Kings — Volare
+Glen Campbell — Wichita Lineman
+Gnarls Barkley — Crazy
+Gojira — L'Enfant Sauvage
+Gojira — Silvera
+Gorillaz — Feel Good Inc.
+Green Day — American Idiot
+Green Day — Basket Case
+Green Day — Boulevard Of Broken Dreams
+Green Day — Brain Stew
+Green Day — Holiday
+Green Day — Wake Me Up When September Ends
+Greta Van Fleet — Safari Song
+Guns N' Roses — Don't Cry
+Guns N' Roses — Knockin' On Heaven's Door
+Guns N' Roses — Paradise City
+Guns N' Roses — Sweet Child O' Mine
+HIM — Wicked Game
+Haddaway — What Is Love
+Haddaway — Rock My Heart
+Halestorm — I Miss The Misery
+Hank Williams — Jambalaya
+Harry Styles — Watermelon Sugar
+Helloween — Eagle Fly Free
+Helloween — Future World
+Helloween — I Want Out
+Hermanos Gutiérrez — El Fantasma
+Hermanos Gutiérrez — Guantanamera
+Hermanos Gutiérrez — Hijos del Sol
+Hermanos Gutiérrez — Sonido Cosmico
+Hermanos Gutiérrez — Tres Hermanos
+Hoobastank — The Reason
+Hozier — Take Me To Church
+Ian Dury & The Blockheads — Sex & Drugs & Rock & Roll
+Incubus — Drive
+Iron Maiden — 22 Acacia Avenue
+Iron Maiden — Aces High
+Iron Maiden — Can I Play With Madness
+Iron Maiden — Hallowed Be Thy Name
+Iron Maiden — Iron Maiden
+Iron Maiden — Killers
+Iron Maiden — Phantom Of The Opera
+Iron Maiden — Running Free
+Iron Maiden — The Trooper
+Jack Johnson — Flake
+Jack White — Over And Over And Over
+Jamiroquai — Cosmic Girl
+Jamiroquai — Virtual Insanity
+Jeff Beck — Cause We've Ended As Lovers
+Jeff Beck — Freeway Jam
+Jeff Beck — Led Boots
+Jeff Beck — People Get Ready
+Jeff Beck — Where Were You
+Jerry Cantrell — Had To Know
+Jet — Are You Gonna Be My Girl
+Jimi Hendrix — All Along The Watchtower
+Jimi Hendrix — Castles Made Of Sand
+Jimi Hendrix — Hey Joe
+Jimi Hendrix — Little Wing
+Jimi Hendrix — Red House
+Jimi Hendrix — Voodoo Child (Slight Return)
+Joaquín Sabina — 19 días y 500 noches
+Joaquín Sabina — Princesa
+Joe Satriani — Always With Me, Always With You
+Joe Satriani — Flying In A Blue Dream
+Joe Satriani — Midnight
+Joe Satriani — The Mystical Potato Head Groove Thing
+Joe Satriani — Surfing With The Alien
+John Coltrane — Blue Train
+John Mayer — Neon
+John McLaughlin — Goodbye Pork Pie Hat
+John Scofield — Georgia On My Mind
+John Williams — Cavatina
+Johnny Cash — Folsom Prison Blues
+Johnny Cash — Ring Of Fire
+Judas Priest — Living After Midnight
+Judas Priest — You've Got Another Thing Comin'
+Julio Iglesias — La carretera
+Julio Iglesias — Me olvidé de vivir
+Kaiser Chiefs — Ruby
+Kansas — Carry On Wayward Son
+Kansas — Dust in the Wind
+Kansas — The Wall
+Katy Perry — Roar
+King Crimson — 21st Century Schizoid Man
+King Crimson — Epitaph
+King Crimson — Starless
+King Crimson — The Court of the Crimson King
+Kinks — You Really Got Me
+Korn — Got The Life
+Kris Kristofferson — Me and Bobby McGee
+La Casa Azul — La Revolución Sexual
+La Fuga — P’aquí P’allá
+La Guardia — Mil Calles Llevan Hacia Ti
+La Pegatina — Maricarmen
+La Raíz — Entre Poetas y Presos
+La Unión — Lobo-Hombre En París
+Lady Gaga — Always Remember Us This Way
+Leño — Este Madrid
+Leño — Maneras de Vivir
+Leonard Cohen — Hallelujah
+Linkin Park — In The End
+Linkin Park — Somewhere I Belong
+Lynyrd Skynyrd — Simple Man
+Maceo Parker — Shake Everything You've Got
+Maná — Clavado En Un Bar
+Maneskin — Beggin'
+Manolo García — Nunca el tiempo es perdido
+Marillion — Kayleigh
+Maroon 5 — This Love
+Marshmello — Happier
+Marvin Gaye — What's Going On
+Massive Attack — Teardrop
+Matchbox Twenty — 3AM
+Mägo de Oz — Fiesta Pagana
+Mecano — El 7 de Septiembre
+Megadeth — Holy Wars
+Metallica — Enter Sandman
+Michael Jackson — Beat It
+Miley Cyrus — Flowers
+Milo J — A1RE
+Milo J — Luciernagas
+Modest Mouse — Float On
+Mötley Crüe — Kickstart My Heart
+Muse — Hysteria
+Nirvana — About A Girl
+Nirvana — Come As You Are
+Nirvana — Heart-Shaped Box
+Nirvana — Lithium
+Oasis — Don't Look Back In Anger
+Oasis — Wonderwall
+Oasis — Whatever
+Of Monsters and Men — Little Talks
+Opeth — Windowpane
+Ozzy Osbourne — Crazy Train
+P!nk — What About Us
+Pantera — Cowboys From Hell
+Pearl Jam — Black
+Pearl Jam — Alive
+Peter Gabriel — Sledgehammer
+Peter Green — Albatross
+Pink Floyd — Comfortably Numb
+Pink Floyd — Hey You
+Pink Floyd — Money
+Pink Floyd — Another Brick In The Wall
+Pink Floyd — Wish You Were Here
+Poison — Fallen Angel
+Poison — Look But You Can't Touch
+Porcupine Tree — Trains
+Queen — Bohemian Rhapsody
+Queen — Don't Stop Me Now
+Queen — We Will Rock You
+R.E.M. — Losing My Religion
+Radiohead — Creep
+Red Hot Chili Peppers — White Braids & Pillow Chair
+Revolver — El Dorado
+Rihanna — Stay
+Ritchie Valens — La Bamba
+Robert Johnson — Sweet Home Chicago
+Rod Stewart — Maggie May
+Rory Gallagher — Bad Penny
+Rory Gallagher — Shadow Play
+Royal Blood — Figure It Out
+Santana — Angelica Faith
+Santana — Bella
+Santana — Black Magic Woman
+Santana — Corazón Espinado
+Santana — Dom
+Santana — El Farol
+Santana — En Aranjuez Con Tu Amor
+Santana — Europa
+Santana — Evil Ways
+Santana — Full Moon
+Santana — I Love you much too much
+Santana — Into the Night
+Santana — Life Is a Lady / Holiday
+Santana — Love is You
+Santana — Moonflower
+Santana — Oye Como Va
+Santana — Revelations
+Santana — Samba Pa Ti
+Santana — Smooth
+Santana — Song for Devadip
+Santana — Toussaint L’Overture
+Santana — Victory Is Won
+Santana Brothers — Blues Latino
+Santana Brothers — Contigo
+Santana Brothers — Luz Amor y Vida
+Santo & Johnny — Sleepwalk
+Satyricon — K.I.N.G.
+Scorpions — Big City Nights
+Scorpions — Blackout
+Scorpions — Holiday
+Scorpions — No One Like You
+Scorpions — Rock You Like a Hurricane
+Scorpions — Still Loving You
+Scorpions — Wind Of Change
+Screamin’ Jay Hawkins — I Put a Spell on You
+Screaming Trees — Nearly Lost You
+Sean Costello — Can’t Let Go
+Sebadoh — Beauty Of The Ride
+Sebastián Cortés & Roy Borland — Dos X Tres (Acústico)
+Sebastián Yatra — Tacones Rojos
+Sérgio Mendes & Brasil '66 — Mais Que Nada
+Serj Tankian — Empty walls
+Serj Tankian — Harakiri
+Serj Tankian — Sky Is Over
+Serrat — Penélope
+SFDK — Agua Pasá ft. Kaze
+Shakira / Fuerza Regida — El Jefe
+Shawn Mendes — Bad Reputation
+Shinedown — Simple Man
+Shivaree — Goodnight Moon
+Shocking Blue — Venus
+Sia — Snowman
+Sidecars — La Tormenta
+Silk Sonic — Bruno Mars & Anderson .Paak — Blast Off
+Silk Sonic — Bruno Mars & Anderson .Paak — Leave The Door Open
+Silk Sonic — Bruno Mars & Anderson .Paak — Skate
+Silk Sonic — Bruno Mars & Anderson .Paak — Smokin’ Out the Window
+Simon & Garfunkel — Mrs. Robinson
+Simon & Garfunkel — The Sound of Silence
+Simply Red — Stars
+Sinéad O’Connor — Nothing Compares 2 U
+Sínkope — El Carro de la Vida
+Sister Sledge — We Are Family
+Skid Row — 18 And Life
+Skid Row — I Remember You
+Skid Row — Makin’ a Mess
+Slade — Gudbuy T'Jane
+Slade — Let the Good Times Roll / Feel So Fine
+Slade — Man Who Speeks Evil
+Slash — Anastasia
+Slash — By the Sword
+Slash — Good To Be Alive
+Slash — Obsession Confession
+Slash — The Unholy
+Slash feat. Iggy Pop — We’re All Gonna Die
+Slash feat. Myles Kennedy — Back From Cali
+Slipknot — Before I Forget
+Slipknot — Psychosocial
+Slipknot — The Devil in I
+Slut — Pirate Jenny
+Sly & the Family Stone — If you want me to stay
+Smashing Pumpkins — Tonight, Tonight
+Sonny Rollins — Oleo
+Soundgarden — Black Hole Sun
+Soundgarden — Burden In My Hand
+Soundgarden — Fell on Black Days
+Soundgarden — Let Me Drown
+Soundgarden — Never the Machine Forever
+Soundgarden — Outshined
+Soundgarden — Taree
+Soundgarden — The Day I Tried To Live
+Status Quo — Don’t Waste My Time
+Status Quo — Down Down
+Status Quo — Little Lady
+Status Quo — Mystery Song
+Status Quo — Rockin' All Over The World
+Status Quo — What You’re Proposing
+Status Quo — Whatever You Want
+Steely Dan — Everything Must Go
+Steppenwolf — Born To Be Wild
+Steve Miller Band — Serenade from the Stars
+Steve Vai — Answers
+Steve Vai — Crossroads Suite
+Steve Vai — Erotic Nightmares
+Steve Vai — For the Love Of God
+Steve Vai — I Would Love To
+Steve Vai — Liberty
+Steve Vai — Lotus Feet
+Steve Vai — Speed
+Steve Vai — Tender Surrender
+Steve Vai — The Animal
+Steve Vai — The Riddle
+Steve Vai — Viv Woman
+Stevie Ray Vaughan — Cold Shot
+Stevie Ray Vaughan — Dirty Pool
+Stevie Ray Vaughan — I'm Cryin'
+Stevie Ray Vaughan — Lenny
+Stevie Ray Vaughan — Life by the Drop
+Stevie Ray Vaughan — Life Without You
+Stevie Ray Vaughan — Love Me Darlin'
+Stevie Ray Vaughan — Mary Had a Little Lamb
+Stevie Ray Vaughan — Pride And Joy
+Stevie Ray Vaughan — Testify
+Stevie Wonder — Contusion
+Stevie Wonder — For Once In My Life
+Stevie Wonder — Golden Lady
+Stevie Wonder — Have a Talk with God
+Stevie Wonder — Higher Ground
+Stevie Wonder — I Wish
+Stevie Wonder — Isn’t She Lovely
+Stevie Wonder — Knock me off my feet
+Stevie Wonder — Love's in Need of Love Today
+Stevie Wonder — Ordinary Pain
+Stevie Wonder — Overjoyed
+Stevie Wonder — Sir Duke
+Stevie Wonder — Summer soft
+Stevie Wonder — Superstition
+Stevie Wonder — Vintage Ghetto Woman
+Stevie Wonder — You are the sunshine of my life
+Stevie Wonder — You’ve got a bad girl
+Sting — Englishman in New York
+Sting — Seven Days
+Stone Temple Pilots — Interstate Love Song
+Stratovarius — Stratosphere
+Suede — Animal Nitrate
+Suede — Beautiful Ones
+Suede — New Generation
+Suede — So Young
+Suede — We Are The Pigs
+Sum 41 — Hell Song
+Sum 41 — In Too Deep
+Sum 41 — Still Waiting
+Sum 41 — We’re All to Blame
+Supertramp — Give a Little Bit
+Survivor — Eye Of The Tiger
+System of a Down — Aerials
+System of a Down — B.Y.O.B.
+System of a Down — Lonely Day
+System of a Down — Toxicity
+Tarque — Mar de Whisky
+Táta Vega — Miss Celie’s Blues (Sister)
+Tayko & Migliz — Garúa (Sabor a Querer)
+Tears for Fears — Everybody Wants to Rule the World
+Tenacious D — Rize of the Fenix
+Tenacious D — The Metal
+Terry Evans — Dark End of the Street
+Thaurorod — Shadows and Rain
+The Allman Brothers Band — Jessica
+The Allman Brothers Band — Soulshine
+The Allman Brothers Band — The Firing Line
+The Allman Brothers Band — Trouble No More
+The Allman Brothers Band — You Don’t Love Me
+The Animals — House of the Rising Sun
+The Barbwires — La caja del muerto
+The Beach Boys — Surfin’ U.S.A.
+The Beatles — Across the Universe
+The Beatles — Back in the U.S.S.R.
+The Beatles — Blackbird
+The Beatles — Boys
+The Beatles — Drive My Car
+The Beatles — Eleanor Rigby
+The Beatles — Help
+The Beatles — Helter Skelter
+The Beatles — Hey Jude
+The Beatles — Hold your hand
+The Beatles — I Saw Her Standing There
+The Beatles — I'm Only Sleeping
+The Beatles — Let it be
+The Beatles — Maxwell’s Silver Hammer
+The Beatles — Michelle
+The Beatles — Money (That's What I Want)
+The Beatles — Norwegian Wood
+The Beatles — Oh! Darling
+The Beatles — Revolution
+The Beatles — Rock And Roll Music
+The Beatles — Something
+The Beatles — Ticket To Ride
+The Beatles — Twist And Shout
+The Beatles — While My Guitar Gently Weeps
+The Beatles — With a Little Help from My Friends
+The Beatles — Yesterday
+The Beatles — You Can’t Do That
+The Black Crowes — Hard To Handle
+The Black Crowes — Sister Luck
+The Black Keys — Everywhere I Go
+The Black Keys — Gold on the Ceiling
+The Black Keys — Hard Row
+The Black Keys — Have Love Will Travel
+The Black Keys — Hurt like Mine
+The Black Keys — I Got Mine
+The Black Keys — Lonely Boy
+The Black Keys — She’s Long Gone
+The Black Keys — Thickfreakness
+The Black Keys — Tighten Up
+The Black Moiras — Mayo
+The Blues Brothers — Sweet Home Chicago
+The Carpenters — Close to You
+The Cat Empire — The Rhythm
+The Chordettes — Mr. Sandman
+The Clash — I Fought The Law
+The Clash — Should I Stay Or Should I Go
+The Corrs — Only When I Sleep
+The Cranberries — Zombie
+The Crusaders — Street Life
+The Cult — Black Sun
+The Cure — 10:15 Saturday Night
+The Cure — A Forest
+The Cure — A Letter To Elise
+The Cure — A Short Term Effect
+The Cure — A Strange Day
+The Cure — All I Want
+The Cure — At Night
+The Cure — Bananafishbones
+The Cure — Boys Don’t Cry
+The Cure — Close to Me
+The Cure — Cold
+The Cure — Doubt
+The Cure — Dressing Up
+The Cure — Faith
+The Cure — Fire in Cairo
+The Cure — Foxy Lady
+The Cure — Friday I’m in love
+The Cure — From the Edge of the Deep Green Sea
+The Cure — Give Me It
+The Cure — Grinding Halt
+The Cure — Hanging Garden
+The Cure — Hot Hot Hot
+The Cure — How Beautiful You Are
+The Cure — In Your House
+The Cure — Inbetween Days
+The Cure — It’s Not You
+The Cure — Jumping Someone Else’s Train
+The Cure — Just Like Heaven
+The Cure — Just One Kiss
+The Cure — Killing An Arab
+The Cure — Let’s Go to Bed
+The Cure — Like Cockatoos
+The Cure — Lullaby
+The Cure — M
+The Cure — Object
+The Cure — One More Time
+The Cure — Other Voices
+The Cure — Plastic Passion
+The Cure — Play For Today
+The Cure — Pornography
+The Cure — Primary
+The Cure — Push
+The Cure — Secrets
+The Cure — Shake Dog Shake
+The Cure — Siamese Twins
+The Cure — Six Different Ways
+The Cure — So What
+The Cure — Speak My Language
+The Cure — The Birdmad Girl
+The Cure — The Blood
+The Cure — The Caterpillar
+The Cure — The Dream
+The Cure — The Drowning Man
+The Cure — The Empty World
+The Cure — The Figurehead
+The Cure — The Snakepit
+The Cure — The Top
+The Cure — The Upstairs Room
+The Cure — The Walk
+The Cure — This Is a Lie
+The Cure — Wailing Wall
+The Cure — Why Can’t I Be You?
+The Dandy Warhols — Bohemian Like You
+The Darkness — Friday Night
+The Darkness — I Believe In A Thing Called Love
+The Darkness — One Way Ticket
+The Dave Brubeck Quartet — Take Five
+The Dead Weather — Be Still
+The Dead Weather — Blue Blood Blues
+The Dead Weather — I Feel Love (Every Million Miles)
+The Doobie Brothers — Listen To The Music
+The Doobie Brothers — Long Train Running
+The Doobie Brothers — What A Fool Believes
+The Doors — Break On Through (To the Other Side)
+The Doors — Light My Fire
+The Eagles — Hotel California
+The Eagles — New Kid in Town
+The Hives — Hate to Say I Told You So
+The Human League — Don’t You Want Me
+The Jackson 5 — Blame on the Boogie
+The Jackson 5 — I Want You Back
+The Killers — Human
+The Knack — My Sharona
+The Lively Ones — Surf Rider
+The Living Tombstone — I Got No Time
+The Living Tombstone — Me and the Boys
+The Living Tombstone feat. OR3O — Basics in Behavior
+The Living Tombstone feat. OR3O — Basics in Behaviour
+The Mamas & The Papas — California Dreamin'
+The Marvelettes — Please Mr. Postman
+The Moody Blues — Nights In White Satin
+The Offspring — Pretty Fly for a White Guy
+The Platters — Only You (And You Alone)
+The Platters — The Great Pretender
+The Police — Every Breath You Take
+The Police — King Of Pain
+The Police — Message In A Bottle
+The Police — Roxanne
+The Police — So Lonely
+The Police — Walking on the Moon
+The Police — Wrap Around Your Fingers
+The Pretenders — Don’t Get Me Wrong
+The Ramones — Poison Heart
+The Rolling Stones — Brown Sugar
+The Rolling Stones — Gimme Shelter
+The Rolling Stones — Honky Tonk Woman
+The Rolling Stones — It's Only Rock 'n' Roll
+The Rolling Stones — Jumpin’ Jack Flash
+The Rolling Stones — Rip This Joint
+The Rolling Stones — Start Me Up
+The Rolling Stones — Stop Breaking Down
+The Shadows — Apache
+The Shadows — Atlantis
+The Shadows — FBI
+The Shadows — Man Of Mystery
+The Shadows — Peace Pipe
+The Shadows — Shindig
+The Shadows — Theme For Young Lovers
+The Smiths — Barbarism Begins At Home
+The Smiths — Bigmouth Strikes Again
+The Smiths — Cemetry Gates
+The Smiths — Frankly, Mr. Shankly
+The Smiths — Heaven Knows I’m Miserable Now
+The Smiths — I Know It’s Over
+The Smiths — I Want The One I Can’t Have
+The Smiths — Meat Is Murder
+The Smiths — Nowhere Fast
+The Smiths — Paint a vulgar picture
+The Smiths — Panic
+The Smiths — Reel Around The Fountain
+The Smiths — Stop Me If You Think You’ve Heard This One Before
+The Smiths — That Joke Isn’t Funny Anymore
+The Smiths — The Headmaster Ritual
+The Smiths — There Is a Light That Never Goes Out
+The Smiths — Well I Wonder
+The Stone Roses — This Is The One
+The Stooges — Down on the Street
+The Stooges — I Wanna Be Your Dog
+The Strokes — 12:51
+The Strokes — Reptilia
+The Strokes — The End Has No End
+The Strokes — Under Cover of Darkness
+The Strokes — You Only Live Once
+The Surfaris — Wipe Out
+The Surfmen — The Ghost Hop
+The Troggs — Wild Thing
+The Ventures — Hawaii Five-O
+The Ventures — Pipeline
+The Ventures — Walk Don’t Run
+The Weeknd — Blinding Lights
+The Weeknd — Save Your Tears
+The Weeknd — The Hills
+The White Buffalo — I Got You
+The White Buffalo & The Forest Rangers — Come Join the Murder
+The White Stripes — Ball And Biscuit
+The White Stripes — Black Math
+The White Stripes — Seven Nation Army
+The White Stripes — The Dead Leaves And The Dirty Ground
+The White Stripes — The Hardest Button To Button
+The Who — Baba O’Riley
+Thelonious Monk — ’Round Midnight
+Thelonious Monk — Blue Monk
+These Foolish Things — These Foolish Things (Remind Me of You)
+Thin Lizzy — Dancing in the moonlight
+Thin Lizzy — The Rocker
+Tierra Santa — Cancion del Pirata
+Tina Turner — Disco Inferno
+Tina Turner — Private Dancer
+Tino Casal — Eloise
+Tom Petty — Free Fallin'
+Tony Joe White — Tunica Motel
+Tool — Lateralus
+Tool — Parabola
+Toto — Stop Loving You
+Tough Talk — The Jazz Crusaders
+Tradicional ucraniana — Carol of the Bells
+Travis Birds — Coyotes
+Triana — Abre la Puerta
+Triana — En el Lago
+Triana — Quiero contarte
+Triana — Tu frialdad
+Triana — Una historia
+Ty Segall — Feel
+Ty Segall — The Singer
+U2 — 40
+U2 — A Day Without Me
+U2 — A Sort Of Homecoming
+U2 — Bad
+U2 — Drowning Man
+U2 — Electric Co
+U2 — Elvis Presley and America
+U2 — Even Better Than The Real Thing
+U2 — Exit
+U2 — Fire
+U2 — Gloria
+U2 — I Still Haven’t Found What I’m Looking For
+U2 — I Threw a Brick Through a Window
+U2 — I Will Follow
+U2 — I’ll Go Crazy If I Don’t Go Crazy Tonight
+U2 — If God Will Send His Angels
+U2 — In God's Country
+U2 — Indian Summer Sky
+U2 — Is That All
+U2 — Like a Song
+U2 — Mothers of the Disappeared
+U2 — Mysterious Ways
+U2 — New Years Day
+U2 — One Tree Hill
+U2 — Pride (In the Name of Love)
+U2 — Promenade
+U2 — Red Hill Mining Town
+U2 — Red Light
+U2 — Rejoice
+U2 — Running To Stand Still
+U2 — Scarlet
+U2 — Seconds
+U2 — Shadows and Tall Trees
+U2 — Stranger In A Strange Land
+U2 — Sunday Bloody Sunday
+U2 — Surrender
+U2 — The Ocean
+U2 — The Refugee
+U2 — The Unforgettable Fire
+U2 — Trip Through Your Wires
+U2 — Two Hearts Beat as One
+U2 — Ultraviolet (Light My Way)
+U2 — Until The End Of The World
+U2 — Vertigo
+U2 — Where the streets have no name
+U2 — Wire
+U2 — With a Shout
+U2 — With Or Without You
+Undertale — Asgore
+Undertale — Finale
+Undertale — Heartache
+Undertale — Megalovania
+Undertale — Save The World
+Usher & Alicia Keys — My Boo
+Velvet Underground — There She Goes
+Vetusta Morla — Al respirar
+Vetusta Morla — Autocrítica
+Vetusta Morla — Baldosas Amarillas
+Vetusta Morla — Boca en Tierra
+Vetusta Morla — Cenas Ajenas
+Vetusta Morla — El Hombre del Saco
+Vetusta Morla — En el Río
+Vetusta Morla — Escudo Humano
+Vetusta Morla — Lo Que Te Hace Grande
+Vetusta Morla — Los Días Raros
+Vetusta Morla — Maldita Dulzura
+Vetusta Morla — Mapas
+Vetusta Morla — Mismo Sitio, Distinto Lugar
+Viagra Boys — Punk Rock Loser
+Viva Suecia — A Dónde Ir
+Vulfpeck — 1 For 1 Dimaggio
+Vulfpeck — Animal Spirits
+Vulfpeck — Aunt Leslie
+Vulfpeck — Cory Wong
+Vulfpeck — Simple Step
+W.A.S.P. — Sleeping (In the Fire)
+Warlock — All We Are
+We Are the World — We Are the World
+Weezer — My Name Is Jonas
+Wes Montgomery — West Coast Blues
+White Lion — Blue Monday
+White Lion — It’s Over
+White Lion — Out with the Boys
+Whitesnake — Bad Boys
+Whitesnake — Cheap An’ Nasty
+Whitesnake — Crying in the Rain
+Whitesnake — Fool For Your Loving
+Whitesnake — Guilty of Love
+Whitesnake — Here I Go Again
+Whitesnake — Is This Love
+Whitesnake — Judgement Day
+Whitesnake — Kittens Got Claws
+Whitesnake — Now You’re Gone
+Whitesnake — Sailing Ships
+Whitesnake — Slip Of The Tongue
+Whitesnake — Slow Poke Music
+Whitesnake — Sweet Talker
+Whitesnake — The Deeper the Love
+Whitesnake — Wings Of The Storm
+Wilbur de Paris — In a Persian Market
+Winger — Battle Stations
+Winger — Seventeen
+Wolfmother — Joker And The Thief
+Woody Pines — Junco Partner
+Yeah Yeah Yeahs — Black Tongue
+Yeah Yeah Yeahs — Date With The Night
+Yes — Heart Of The Sunrise
+Yngwie Malmsteen — As Above So Below
+Yngwie Malmsteen — Brothers
+Yngwie Malmsteen — Evil Eye
+Yngwie Malmsteen — Far Beyond The Sun
+Yngwie Malmsteen — Presto Vivace in #C Minor
+Yngwie Malmsteen — Queen in Love
+Yngwie Malmsteen — Trilogy Suite - Opus
+Yoko Shimomura — Somnus (Final Fantasy XV Main Menu Theme)
+Zemeth — Lunatic and Lolita
+Zemeth — Valentine Libido
+ZZ Top — La Grange
+ZZ Top — Tush
